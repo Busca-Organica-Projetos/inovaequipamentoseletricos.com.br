@@ -1,0 +1,204 @@
+.mt-40 {
+  margin-top: 40px;
+}
+
+#banner {
+  margin-top: -70px;
+  color: white;
+  position: relative;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(imagens/main/home/banner.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 80dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#banner .banner-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+#banner h1 {
+  text-shadow: black 3px 3px 3px;
+  font-size: 40px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.322);
+}
+
+/* =============================================
+   CARROSSEL — #bem-vindo
+   1 imagem por vez, dentro do col-lg-6
+   ============================================= */
+
+/* Wrapper externo — posicionamento dos botões */
+.bv-carrossel {
+  position: relative;
+  width: 100%;
+  user-select: none;
+}
+
+/* Viewport — corta os slides laterais */
+.bv-carrossel__viewport {
+  overflow: hidden;
+  border-radius: 8px;
+  background: #f0f5f0;
+}
+
+/* Track — todos os slides em linha */
+.bv-carrossel__track {
+  display: flex;
+  align-items: stretch;
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform;
+}
+
+/* Slide — 1 por vez = 100% da largura */
+.bv-carrossel__slide {
+  flex: 0 0 100%;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+/* Imagem */
+.bv-carrossel__slide img {
+  width: 100%;
+  max-height: 380px;
+  object-fit: contain;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.bv-carrossel__slide img:hover {
+  transform: scale(1.03);
+}
+
+/* Título abaixo da imagem */
+.bv-carrossel__titulo {
+  margin-top: 14px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text, #1a2a1a);
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+/* ─── Botões PREV / NEXT ─────────────────────── */
+.bv-carrossel__prev,
+.bv-carrossel__next {
+  position: absolute;
+  top: 45%;
+  transform: translateY(-50%);
+  width: 36px;
+  height: 36px;
+  background: var(--main, #1a7a3a);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+  transition:
+    background 0.2s,
+    transform 0.15s;
+  z-index: 5;
+}
+
+.bv-carrossel__prev {
+  left: -18px;
+}
+.bv-carrossel__next {
+  right: -18px;
+}
+
+.bv-carrossel__prev:hover,
+.bv-carrossel__next:hover {
+  background: var(--main-dark, #0f4d24);
+}
+
+.bv-carrossel__prev:active,
+.bv-carrossel__next:active {
+  transform: translateY(-50%) scale(0.9);
+}
+
+.bv-carrossel__prev:disabled,
+.bv-carrossel__next:disabled {
+  background: #ccc;
+  cursor: default;
+  box-shadow: none;
+}
+
+/* ─── Rodapé: dots + contador ────────────────── */
+.bv-carrossel__rodape {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 14px;
+}
+
+/* Dots */
+.bv-carrossel__dots {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.bv-carrossel__dots .dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #ccc;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  transition:
+    background 0.25s,
+    transform 0.25s;
+}
+
+.bv-carrossel__dots .dot.active {
+  background: var(--main, #1a7a3a);
+  transform: scale(1.45);
+}
+
+/* Contador */
+.bv-carrossel__contador {
+  font-size: 11px;
+  color: #888;
+  letter-spacing: 0.05em;
+}
+
+.bv-carrossel__contador strong {
+  color: var(--main, #1a7a3a);
+  font-weight: 700;
+}
+
+#pilares, #bem-vindo {
+  margin-top: 40px;
+  padding: 40px 20px;
+}
+
+#pilares .raio-separador i {
+  text-align: center;
+  font-size: 20px;
+  color: var(--main);
+}
+
+#pilares .raio-separador {
+  text-align: center;
+}

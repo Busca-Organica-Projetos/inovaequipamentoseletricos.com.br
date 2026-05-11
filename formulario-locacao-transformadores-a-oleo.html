@@ -1,0 +1,152 @@
+<form class="orcamento-form" action="#" method="POST">
+
+    <div class="form-row">
+        <div class="form-group">
+            <input type="text" name="nome" placeholder="Nome:*" required />
+        </div>
+        <div class="form-group">
+            <input type="email" name="email" placeholder="E-Mail:*" required />
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="form-group">
+            <input type="tel" name="telefone" placeholder="Telefone:*" required />
+        </div>
+        <div class="form-group">
+            <input type="text" name="cnpj_cpf" placeholder="CNPJ ou CPF:*" required />
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="form-group">
+            <input type="text" name="empresa" placeholder="Empresa:" />
+        </div>
+        <div class="form-group">
+            <input type="text" name="cidade" placeholder="Cidade:" />
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="form-group">
+            <select name="estado">
+                <option value="" disabled selected>Estado:</option>
+                <option>AC</option>
+                <option>AL</option>
+                <option>AP</option>
+                <option>AM</option>
+                <option>BA</option>
+                <option>CE</option>
+                <option>DF</option>
+                <option>ES</option>
+                <option>GO</option>
+                <option>MA</option>
+                <option>MT</option>
+                <option>MS</option>
+                <option>MG</option>
+                <option>PA</option>
+                <option>PB</option>
+                <option>PR</option>
+                <option>PE</option>
+                <option>PI</option>
+                <option>RJ</option>
+                <option>RN</option>
+                <option>RS</option>
+                <option>RO</option>
+                <option>RR</option>
+                <option>SC</option>
+                <option>SP</option>
+                <option>SE</option>
+                <option>TO</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <select name="cargo">
+                <option value="" disabled selected>Cargo:</option>
+                <option>Instalador</option>
+                <option>Eletricista</option>
+                <option>Proprietário</option>
+                <option>Compras</option>
+                <option>Outros</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="form-group">
+            <select name="regime_tributacao">
+                <option value="" disabled selected>Regime de Tributação:</option>
+                <option>Simples Nacional</option>
+                <option>Lucro Presumido</option>
+                <option>Lucro Real</option>
+                <option>Outros</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <select name="destino_mercadoria">
+                <option value="" disabled selected>O destino da mercadoria é para:</option>
+                <option>Comercialização</option>
+                <option>Consumidor final (uso - consumo ou ativo imobilizado)</option>
+                <option>Consumidor final não contribuinte de ICMS</option>
+                <option>Industrialização</option>
+                <option>Outros</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-row form-row--full">
+        <div class="form-group">
+            <select name="potencia">
+                <option value="" disabled selected>Potência:</option>
+                <option>15KVA</option>
+                <option>30KVA</option>
+                <option>45KVA</option>
+                <option>75KVA</option>
+                <option>112.5KVA</option>
+                <option>150KVA</option>
+                <option>225KVA</option>
+                <option>300KVA</option>
+                <option>500KVA</option>
+                <option>750KVA</option>
+                <option>1000KVA</option>
+                <option>1500KVA</option>
+                <option>2000KVA</option>
+                <option>2500KVA</option>
+                <option>3000KVA</option>
+                <option>Outros</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="form-group">
+            <select name="tensao_primaria">
+                <option value="" disabled selected>Tensão Primária:</option>
+                <option>13.800V</option>
+                <option>24.200V</option>
+                <option>34.500V</option>
+                <option>Outros</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <select name="tensao_secundaria">
+                <option value="" disabled selected>Tensão Secundária:</option>
+                <option>220/127V</option>
+                <option>380/220V</option>
+                <option>440/254V</option>
+                <option>Outros</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-row form-row--full">
+        <div class="form-group">
+            <textarea name="descricao" placeholder="Descrição do Equipamento:" rows="6"></textarea>
+        </div>
+    </div>
+
+    <div class="form-row form-row--submit">
+        <button type="submit">Enviar</button>
+    </div>
+
+</form>

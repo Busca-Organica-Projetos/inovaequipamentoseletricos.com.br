@@ -1,0 +1,309 @@
+
+#banner {
+  margin-top: -70px;
+  color: white;
+  position: relative;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(imagens/main/home/banner.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 80dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#banner .banner-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+#banner h1 {
+  text-shadow: black 3px 3px 3px;
+  font-size: 40px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.322);
+}
+
+#breadcrumb {
+  width: 100%;
+  max-height: 80px;
+  background: #f7f7f7;
+  border-bottom: 1px solid var(--border);
+  padding: 0;
+}
+
+#breadcrumb .breadcrumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  background: none;
+  padding: 10px;
+}
+
+#breadcrumb .breadcrumb-item + .breadcrumb-item::before {
+  content: "/";
+  color: #aaa;
+  padding: 0 6px;
+}
+
+#breadcrumb .breadcrumb-item a {
+  color: var(--main-dark);
+  font-size: 12px;
+}
+
+#breadcrumb .breadcrumb-item a:hover {
+  color: var(--main);
+  text-decoration: underline;
+}
+
+#breadcrumb .breadcrumb-item.active {
+  color: #666;
+  font-size: 12px;
+}
+
+#filtros .box-filtros {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+#filtros .box-filtros img {
+  width: 200px;
+  transition: 1s;
+}
+
+#filtros .card-seta {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 14px; /* altura da seta */
+}
+
+#filtros .box-filtros img:hover {
+  transform: scale(1.09);
+}
+
+#filtros .box-filtros h2 {
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 20px;
+}
+
+#orcamento {
+  color: #fff;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  padding: 30px;
+}
+
+#orcamento h2 {
+  margin: 0;
+}
+
+#orcamento .form-wrapper>h2 {
+  text-align: left;
+  color: var(--main);
+  padding: 20px 0;
+  font-size: 40px;
+  font-weight: 700;
+  width: 100%;
+}
+
+#orcamento .form-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+  width: 100%;
+  max-width: 660px;
+  margin-bottom: 90px;
+}
+
+#orcamento .orcamento-form {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* =============================================
+   LINHAS DO GRID
+   ============================================= */
+#orcamento .form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+}
+
+#orcamento .form-row--full {
+  grid-template-columns: 1fr;
+}
+
+#orcamento .form-row--submit {
+  grid-template-columns: auto;
+  justify-content: flex-start;
+  margin-top: 4px;
+}
+
+/* =============================================
+   GRUPO DE CAMPO
+   ============================================= */
+#orcamento .form-group {
+  display: block;
+  position: relative;
+}
+
+/* =============================================
+   INPUTS, SELECTS E TEXTAREA
+   ============================================= */
+#orcamento input[type="text"],
+#orcamento input[type="email"],
+#orcamento input[type="tel"],
+#orcamento select,
+#orcamento textarea {
+  width: 100%;
+  height: auto;
+  min-height: 42px;
+  padding: 10px 12px;
+  background-color: rgba(255, 255, 255, 0.25);
+  border: 1.5px solid #1a7a3a;
+  border-radius: 0;
+  color: #000;
+  font-size: 14px;
+  line-height: 1.5 !important;
+  font-family: inherit;
+  box-sizing: border-box;
+  outline: none;
+  vertical-align: middle;
+  appearance: none;
+  -webkit-appearance: none;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+/* Selects precisam de altura explícita p/ alinhar o texto verticalmente */
+#orcamento select {
+  height: 42px;
+}
+
+#orcamento textarea {
+  height: auto;
+}
+
+#orcamento input::placeholder,
+#orcamento textarea::placeholder {
+  color: #000;
+  opacity: 1;
+  font-size: 14px;
+}
+
+/* Placeholder para select (option desabilitada) */
+#orcamento select {
+  color: #000;
+  cursor: pointer;
+}
+
+#orcamento select option {
+  background: #e8f8ee;
+  color: #0d4a1f;
+}
+
+/* Seta customizada do select */
+#orcamento .form-group:has(select) {
+  position: relative;
+}
+
+#orcamento .form-group:has(select)::after {
+  content: "";
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 6px solid #0d4a1f;
+}
+
+/* Textarea sem resize horizontal */
+#orcamento textarea {
+  resize: vertical;
+  min-height: 130px;
+  line-height: 1.5;
+}
+
+/* Foco */
+#orcamento input:focus,
+#orcamento select:focus,
+#orcamento textarea:focus {
+  background-color: rgba(255, 255, 255, 0.4);
+  border-color: #0a5c28;
+}
+
+/* =============================================
+   BOTÃO ENVIAR
+   ============================================= */
+#orcamento button[type="submit"] {
+  padding: 10px 36px;
+  background-color: #ffffff;
+  border: 1.5px solid #0d4a1f;
+  border-radius: 4px;
+  color: #0d4a1f;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+
+#orcamento button[type="submit"]:hover {
+  background-color: #0d4a1f;
+  border-color: #0d4a1f;
+  color: #ffffff;
+}
+
+#orcamento button[type="submit"]:active {
+  background-color: #093816;
+  border-color: #093816;
+  color: #ffffff;
+  transform: scale(0.98);
+}
+
+/* =============================================
+   RESPONSIVO — MOBILE
+   ============================================= */
+@media (max-width: 520px) {
+  #orcamento .form-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+#orcamento .info-wrapper {
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+
+#orcamento .info-wrapper ul li{
+  list-style-type: disc;line-height: 25px;
+  margin: 5px 0;
+}
+
+#orcamento .info-wrapper span{
+  color: var(--main);
+  font-weight: 600;
+  font-size: 17px;
+}

@@ -1,0 +1,179 @@
+
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family:Arial, sans-serif;
+        }
+
+        body{
+            background:#f7f7f7;
+            color:#222;
+            padding:20px;
+        }
+
+        .checkout{
+            max-width:1200px;
+            margin:auto;
+            background:#fff;
+            border:1px solid #e5e5e5;
+            padding:25px;
+        }
+
+        .top-msg{
+            font-size:12px;
+            margin-bottom:25px;
+            color:#666;
+        }
+
+        .top-msg a{
+            color:#48cfae;
+            text-decoration:none;
+        }
+
+        .flex{
+            display:flex;
+            gap:40px;
+            align-items:flex-start;
+        }
+
+        .left{
+            flex:1;
+        }
+
+        .right{
+            width:420px;
+        }
+
+        h3{
+            font-size:18px;
+            margin-bottom:20px;
+            font-weight:bold;
+        }
+
+        .row{
+            display:flex;
+            gap:15px;
+        }
+
+        .form-group{
+            margin-bottom:18px;
+            width:100%;
+        }
+
+        .form-group label{
+            display:block;
+            margin-bottom:7px;
+            font-size:13px;
+            font-weight:bold;
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea{
+            width:100%;
+            border:1px solid #dcdcdc;
+            height:38px;
+            padding:10px;
+            font-size:13px;
+            outline:none;
+        }
+
+        .form-group textarea{
+            height:150px;
+            resize:none;
+        }
+
+        table{
+            width:100%;
+            border-collapse:collapse;
+            margin-top:10px;
+        }
+
+        table th{
+            font-size:12px;
+            text-align:left;
+            border:1px solid #e5e5e5;
+            padding:12px;
+        }
+
+        table td{
+            border:1px solid #e5e5e5;
+            padding:12px;
+            font-size:13px;
+        }
+
+        .produto{
+            color:#49c8a7;
+        }
+
+        .valor-total{
+            color:#00c896;
+            font-weight:bold;
+        }
+
+        .pagamento{
+            margin-top:25px;
+            border:1px solid #e5e5e5;
+            padding:20px;
+        }
+
+        .pagamento label{
+            font-size:14px;
+            font-weight:bold;
+        }
+
+        .pagamento-texto{
+            margin-top:15px;
+            background:#f8f8f8;
+            border:1px solid #eee;
+            padding:15px;
+            font-size:13px;
+            color:#555;
+            line-height:1.7;
+        }
+
+        .privacidade{
+            margin-top:25px;
+            font-size:12px;
+            line-height:1.8;
+            color:#555;
+        }
+
+        .privacidade a{
+            color:#49c8a7;
+            text-decoration:none;
+        }
+
+        .button{
+            margin-top:20px;
+            background:#33d0a7;
+            border:none;
+            color:#fff;
+            padding:13px 25px;
+            font-size:13px;
+            font-weight:bold;
+            cursor:pointer;
+            transition:.3s;
+        }
+
+        .button:hover{
+            opacity:.9;
+        }
+
+        @media(max-width:991px){
+
+            .flex{
+                flex-direction:column;
+            }
+
+            .right{
+                width:100%;
+            }
+
+            .row{
+                flex-direction:column;
+                gap:0;
+            }
+
+        }

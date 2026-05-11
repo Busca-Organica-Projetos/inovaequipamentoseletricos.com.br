@@ -1,0 +1,227 @@
+/* ──────────────────────────────────────────────────────────────
+   PÁGINA BLOG — listagem de cards
+   ────────────────────────────────────────────────────────────── */
+
+#text {
+    margin-top: 40px;
+    padding-bottom: 20px;
+}
+
+#text .text-box p {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #444;
+    margin-bottom: 16px;
+    text-align: justify;
+}
+
+#blogs {
+    margin-top: 40px;
+    padding-bottom: 80px;
+}
+
+#blogs .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+#blogs .flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;       /* todas as colunas da mesma linha esticam */
+    margin: 0 -15px;
+}
+
+#blogs .col-lg-4,
+#blogs .col-md-4 {
+    padding: 15px;
+    box-sizing: border-box;
+    /* Faz a coluna se comportar como flex container vertical
+       para que o card filho (.card-blog) consiga esticar
+       até a altura da linha */
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+/* 3 colunas no desktop */
+@media (min-width: 992px) {
+    #blogs .col-lg-4 {
+        flex: 0 0 33.3333%;
+        max-width: 33.3333%;
+    }
+}
+
+/* 2 colunas no tablet */
+@media (min-width: 768px) and (max-width: 991px) {
+    #blogs .col-md-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+
+/* 1 coluna no mobile */
+@media (max-width: 767px) {
+    #blogs .col-lg-4,
+    #blogs .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+/* ─── Link wrapper do card ─── */
+#blogs a {
+    color: #000000;
+    text-decoration: none;
+}
+
+#blogs a:hover {
+    color: var(--main);
+    text-decoration: none;
+}
+
+/* ─── Card ─── */
+#blogs .card-blog {
+    display: flex;
+    align-items: stretch;
+    justify-content: flex-start;
+    flex-direction: column;
+    background: var(--white, #fff);
+    border-radius: var(--bradius, 8px);
+    overflow: hidden;
+    /* GARANTE QUE TODOS OS CARDS DA MESMA LINHA TÊM A MESMA ALTURA:
+       o .col-lg-4 é flex column e o card flex:1 estica até preencher a coluna,
+       e como o flexbox stretcha as colunas pela altura da maior, o resultado
+       é todos os cards do mesmo tamanho. */
+    flex: 1 1 auto;
+    width: 100%;
+    box-shadow:
+        0 1px 3px rgba(0, 0, 0, 0.08),
+        0 1px 2px rgba(0, 0, 0, 0.06);
+    transition:
+        transform 0.25s ease-in-out,
+        box-shadow 0.25s ease-in-out;
+}
+
+#blogs .card-blog:hover {
+    transform: translateY(-6px);
+    box-shadow:
+        0 14px 28px rgba(0, 0, 0, 0.15),
+        0 10px 10px rgba(0, 0, 0, 0.08);
+}
+
+/* ─── Imagem ─── */
+#blogs .card-blog .card-blog-imagem {
+    width: 100%;
+    height: 270px;
+    overflow: hidden;
+    background: #eee;
+}
+
+#blogs .card-blog .card-blog-imagem img {
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s ease-in-out;
+}
+
+#blogs .card-blog:hover .card-blog-imagem img {
+    transform: scale(1.05);
+}
+
+/* ─── Conteúdo ─── */
+#blogs .card-blog .card-blog-conteudo {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 20px;
+    text-align: left;
+}
+
+/* ─── Título ─── */
+#blogs .card-blog .card-blog-titulo,
+#blogs .card-blog .card-blog-titulo a {
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--main);
+    margin: 0 0 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+
+    /* Limita a 3 linhas */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: 4em;
+}
+
+/* ─── Categorias (badges) ─── */
+#blogs .card-blog .card-blog-categorias {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 0 0 14px;
+    font-size: 11px;
+}
+
+#blogs .card-blog .card-blog-categoria {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    padding: 3px 9px;
+    border-radius: 12px;
+    background: var(--main);
+    color: var(--white, #fff);
+    line-height: 1.4;
+    white-space: nowrap;
+}
+
+/* ─── Excerpt ─── */
+#blogs .card-blog .card-blog-excerpt {
+    font-size: 0.9rem;
+    line-height: 1.55;
+    color: #555;
+    margin: 0 0 16px;
+    flex: 1;
+
+    /* Limita a 4 linhas */
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* ─── Meta (data + leia mais) ─── */
+#blogs .card-blog .card-blog-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+    padding-top: 14px;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    font-size: 12px;
+}
+
+#blogs .card-blog .card-blog-data {
+    font-size: 0.78rem;
+    color: #888;
+    font-style: italic;
+}
+
+#blogs .card-blog .card-blog-leia {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--main);
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    transition: transform 0.25s ease-in-out;
+}
+
+#blogs .card-blog:hover .card-blog-leia {
+    transform: translateX(4px);
+}
