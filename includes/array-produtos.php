@@ -1,7 +1,7 @@
 <?php
 
-$url = "http://localhost/_Dev/inovaequipamentoseletricos.com.br/";
-// $url = "https://aprov.buscaorganica.com.br/inovaequipamentoseletricos.com.br/";
+//$url = "http://localhost/_Dev/inovaequipamentoseletricos.com.br/";
+$url = "https://aprov.buscaorganica.com.br/inovaequipamentoseletricos.com.br/";
 
 $produtos = [
     "transformador-a-oleo-15kva" => [

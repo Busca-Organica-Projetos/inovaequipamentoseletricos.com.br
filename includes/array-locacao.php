@@ -1,4 +1,7 @@
 <?php
+
+$url = "https://aprov.buscaorganica.com.br/inovaequipamentoseletricos.com.br/";
+
 $locacoes = [
     "locacao-transformadores-a-oleo" => [
         "titulo" => "Locação de Transformadores a Óleo",

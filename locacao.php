@@ -1,6 +1,6 @@
 <?php
-$h1           = "Loja";
-$title         = "Loja";
+$h1           = "LOCAÇÃO";
+$title         = "LOCAÇÃO";
 $description = ""; // Manter entre 130 a 160 caracteres
 $keywords    = $title;
 
