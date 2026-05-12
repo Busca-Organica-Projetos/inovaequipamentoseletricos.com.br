@@ -51,7 +51,7 @@ $borg->cssCompress(array(
                     <div class="col-lg-12 col-md-12">
                         <div class="box-filtros">
                             <div class="filtros">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_pedestal_3000kva.webp" alt="">
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador-pedestal-3000kva.webp" alt="">
                                 <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
                                     <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
                                 </svg> -->

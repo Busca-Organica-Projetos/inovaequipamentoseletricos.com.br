@@ -99,6 +99,7 @@
                         </ul>
                     </li>
                     <li class="<?php echo $canonical ==  $url.'contato' ? 'pagina-focus':'';?>"><a href="<?php echo $url; ?>contato" title="Contato">Contato</a></li>
+                    <li class="<?php echo $canonical ==  $url.'carrinho' ? 'pagina-focus':'';?>"><a href="<?php echo $url; ?>carrinho" title="carrinho"><i class="fa-solid fa-cart-shopping cart"></i></a></li>
                     <!-- <li class="linfo">
                         <a href="<?php echo $url; ?>informacoes" title="Informações"><i class="fa fa-info linfo-i"></i></a>
                         <ul class="sub-menu">

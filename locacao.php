@@ -51,50 +51,60 @@ $borg->cssCompress(array(
                 <div class="flex">
                     <div class="col-lg-12 col-md-12">
                         <div class="box-filtros">
-                            <div class="filtros">
-                                <a href="<?= $url ?>portfolio-item/locacao-transformadores-pedestal/">
-                                    <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador-pedestal-3000kva.webp" alt="">
-                                </a>
-                                <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
-                                    <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
-                                </svg> -->
-                                <h2>Transformadores Pedestal</h2>
+                            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+                                <div class="filtros">
+                                    <a href="<?= $url ?>portfolio-item/locacao-transformadores-pedestal/">
+                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador-pedestal-3000kva.webp" alt="">
+                                    </a>
+                                    <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
+                                        <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
+                                    </svg> -->
+                                    <h2>Transformadores Pedestal</h2>
+                                </div>
                             </div>
-                            <div class="filtros">
-                                <a href="<?php $url ?>portfolio-item/locacao-transformadores-isoladores/">
-                                    <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_isolador_5kva.webp" alt="">
-                                </a>
-                                <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
-                                    <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
-                                </svg> -->
-                                <h2>Transformadores Isoladores</h2>
+                            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+                                <div class="filtros">
+                                    <a href="<?php $url ?>portfolio-item/locacao-transformadores-isoladores/">
+                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_isolador_5kva.webp" alt="">
+                                    </a>
+                                    <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
+                                        <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
+                                    </svg> -->
+                                    <h2>Transformadores Isoladores</h2>
+                                </div>
                             </div>
-                            <div class="filtros">
-                                <a href="<?php $url ?>portfolio-item/locacao-autotransformadores/">
-                                    <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_isolador_5kva.webp" alt="">
-                                </a>
-                                <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
-                                    <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
-                                </svg> -->
-                                <h2>Autotransformadores</h2>
+                            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+                                <div class="filtros">
+                                    <a href="<?php $url ?>portfolio-item/locacao-autotransformadores/">
+                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_isolador_5kva.webp" alt="">
+                                    </a>
+                                    <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
+                                        <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
+                                    </svg> -->
+                                    <h2>Autotransformadores</h2>
+                                </div>
                             </div>
-                            <div class="filtros">
-                                <a href="<?php $url ?>portfolio-item/locacao-transformadores-a-seco/">
-                                    <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_a_seco_1250kva.webp" alt="">
-                                </a>
-                                <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
-                                    <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
-                                </svg> -->
-                                <h2>Transformadores a Seco</h2>
+                            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+                                <div class="filtros">
+                                    <a href="<?php $url ?>portfolio-item/locacao-transformadores-a-seco/">
+                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_a_seco_1250kva.webp" alt="">
+                                    </a>
+                                    <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
+                                        <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
+                                    </svg> -->
+                                    <h2>Transformadores a Seco</h2>
+                                </div>
                             </div>
-                            <div class="filtros">
-                                <a href="<?php $url ?>portfolio-item/locacao-transformadores-a-oleo/">
-                                    <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_a_oleo_150kva.webp" alt="">
-                                </a>
-                                <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
-                                    <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
-                                </svg> -->
-                                <h2>Transformadores a Óleo</h2>
+                            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+                                <div class="filtros">
+                                    <a href="<?php $url ?>portfolio-item/locacao-transformadores-a-oleo/">
+                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_a_oleo_150kva.webp" alt="">
+                                    </a>
+                                    <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
+                                        <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
+                                    </svg> -->
+                                    <h2>Transformadores a Óleo</h2>
+                                </div>
                             </div>
                         </div>
                     </div>

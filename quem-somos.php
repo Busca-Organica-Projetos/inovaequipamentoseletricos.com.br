@@ -54,7 +54,7 @@ $borg->cssCompress(array(
 
                         <div class="botoes">
                             <a class="button" href="<?= $url ?>loja.php"><i class="fa-solid fa-cart-shopping"></i>CONHEÇA NOSSOS PRODUTOS</a>
-                            <a class="button" href="<?= $url ?>orcamento.php><i class="fa-solid fa-envelope"></i>FAÇA UM ORÇAMENTO</a>
+                            <a class="button" href="<?= $url ?>orcamento.php"><i class="fa-solid fa-envelope"></i>FAÇA UM ORÇAMENTO</a>
                         </div>
                     </div>
 

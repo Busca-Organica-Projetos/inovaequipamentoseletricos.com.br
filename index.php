@@ -79,31 +79,29 @@ $borg->cssCompress(array(
                             <i class="fa-solid fa-bolt"></i>
                         </div>
                     </div>
-                    <div class="col-lg-12 col-md-12">
-                        <div class="transformadores-box">
-                            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                                <div class="card">
-                                    <h2>TRANSFORMADOR A SECO:</h2>
-                                    <img src="<?php $url ?>imagens/main/home/transformador_a_seco.webp" alt="">
-                                    <p>Os transformadores a seco são soluções modernas e ambientalmente amigável para atender às necessidades de distribuição de energia elétrica. Diferentemente dos transformadores tradicionais a óleo, esses transformadores não utilizam líquidos isolantes, o que os torna uma opção mais segura e sustentável.</p>
-                                    <a href="<?= $url ?>portfolio-item/transformadores-a-seco/">SAIBA MAIS</a>
-                                </div>
+                    <div class="transformadores-box">
+                        <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 pd-0">
+                            <div class="card">
+                                <h2>TRANSFORMADOR A SECO:</h2>
+                                <img src="<?php $url ?>imagens/main/home/transformador_a_seco.webp" alt="">
+                                <p>Os transformadores a seco são soluções modernas e ambientalmente amigável para atender às necessidades de distribuição de energia elétrica. Diferentemente dos transformadores tradicionais a óleo, esses transformadores não utilizam líquidos isolantes, o que os torna uma opção mais segura e sustentável.</p>
+                                <a href="<?= $url ?>portfolio-item/transformadores-a-seco/">SAIBA MAIS</a>
                             </div>
-                            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                                <div class="card card-mid">
-                                    <h2>TRANSFORMADOR A ÓLEO:</h2>
-                                    <img src="<?php $url ?>imagens/main/home/transformador_a_oleo.webp" alt="">
-                                    <p>Transformadores a óleo são peças fundamentais no sistema de distribuição de energia elétrica. Ele desempenha o papel crucial de converter tensões elétricas, permitindo a transferência eficiente de eletricidade entre diferentes níveis de tensão. Este tipo de transformador utiliza óleo isolante como meio de resfriamento e isolamento elétrico, garantindo a operação segura e estável do equipamento.</p>
-                                    <a href="<?php $url ?>portfolio-item/transformadores-a-oleo/">SAIBA MAIS</a>
-                                </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 pd-0">
+                            <div class="card card-mid">
+                                <h2>TRANSFORMADOR A ÓLEO:</h2>
+                                <img src="<?php $url ?>imagens/main/home/transformador_a_oleo.webp" alt="">
+                                <p>Transformadores a óleo são peças fundamentais no sistema de distribuição de energia elétrica. Ele desempenha o papel crucial de converter tensões elétricas, permitindo a transferência eficiente de eletricidade entre diferentes níveis de tensão. Este tipo de transformador utiliza óleo isolante como meio de resfriamento e isolamento elétrico, garantindo a operação segura e estável do equipamento.</p>
+                                <a href="<?php $url ?>portfolio-item/transformadores-a-oleo/">SAIBA MAIS</a>
                             </div>
-                            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                                <div class="card">
-                                    <h2>TRANSFORMADOR PEDESTAL:</h2>
-                                    <img src="<?php $url ?>imagens/main/home/transformador_pedestal_3000kva.webp" alt="">
-                                    <p>Os transformadores pedestal são soluções versáteis e eficientes para atender às necessidades de distribuição de energia elétrica. Projetado para ser montado em pedestais elevados, este tipo de transformador oferece inúmeras vantagens em termos de instalação, manutenção e operação confiável.</p>
-                                    <a href="<?php $url ?>portfolio-item/transformadores-pedestal/">SAIBA MAIS</a>
-                                </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 pd-0">
+                            <div class="card">
+                                <h2>TRANSFORMADOR PEDESTAL:</h2>
+                                <img src="<?php $url ?>imagens/main/home/transformador_pedestal_3000kva.webp" alt="">
+                                <p>Os transformadores pedestal são soluções versáteis e eficientes para atender às necessidades de distribuição de energia elétrica. Projetado para ser montado em pedestais elevados, este tipo de transformador oferece inúmeras vantagens em termos de instalação, manutenção e operação confiável.</p>
+                                <a href="<?php $url ?>portfolio-item/transformadores-pedestal/">SAIBA MAIS</a>
                             </div>
                         </div>
                     </div>
@@ -113,17 +111,17 @@ $borg->cssCompress(array(
         <section id="servicos">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="transformadores-titulo">
                             <h2>NOSSOS SERVIÇOS:</h2>
                         </div>
                     </div>
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="raio-separador">
                             <i class="fa-solid fa-bolt"></i>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <div class="card-flip-1 card-flip">
                             <div class="card-inner">
                                 <div class="card-front">
@@ -137,7 +135,7 @@ $borg->cssCompress(array(
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <div class="card-flip-2 card-flip">
                             <div class="card-inner">
                                 <div class="card-front">
@@ -151,7 +149,7 @@ $borg->cssCompress(array(
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <div class="card-flip-3 card-flip">
                             <div class="card-inner">
                                 <div class="card-front">
@@ -171,13 +169,13 @@ $borg->cssCompress(array(
         <section id="baixa-tensao">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="transformadores-titulo">
                             <h2>TRANSFORMADORES DE BAIXA TENSÃO:</h2>
                         </div>
                     </div>
 
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="raio-separador">
                             <i class="fa-solid fa-bolt"></i>
                         </div>
@@ -202,15 +200,15 @@ $borg->cssCompress(array(
         <section id="eletricos">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-6 col-md-6">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                         <div class="box-text">
                             <h2>INOVA EQUIPAMENTOS ELÉTRICOS</h2>
                             <p>Na Inova Equipamentos Elétricos, nossa paixão pela qualidade, inovação e desempenho é o que nos impulsiona a liderar o mercado como representantes das melhores marcas de transformadores e equipamentos elétricos no Brasil. Com um compromisso incansável com a excelência, estamos aqui para atender todas as suas necessidades energéticas com soluções confiáveis e de alto desempenho.</p>
                             <a href="<?= $url ?>quem-somos.php">SAIBA MAIS</a>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6">
-                        <img src="<?php $url ?>imagens/main/home/transformadores.webp" alt="transformadores elétricos">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <img class="img-responsive" src="<?php $url ?>imagens/main/home/transformadores.webp" alt="transformadores elétricos">
                     </div>
                 </div>
             </div>
@@ -245,35 +243,35 @@ $borg->cssCompress(array(
         <section id="orcamento">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-6 col-md-6">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                         <div class="form-wrapper">
                             <h2>SOLICITE O ORÇAMENTO DO SEU TRANSFORMADOR:</h2>
                             <form class="orcamento-form">
 
                                 <div class="form-row">
                                     <div class="form-group">
-                                        <input type="text" name="Nome" class="form-control campo-obrigatorio" placeholder="Nome:*" />
+                                        <input type="text" name="Nome" class="form-control campo-obrigatorio" placeholder="Nome:*" >
                                     </div>
                                     <div class="form-group">
-                                        <input type="email" name="E-mail" class="form-control campo-obrigatorio" placeholder="E-Mail:*" />
-                                    </div>
-                                </div>
-
-                                <div class="form-row">
-                                    <div class="form-group">
-                                        <input type="tel" name="Telefone" class="form-control campo-obrigatorio mask-phone" placeholder="Telefone:*" />
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="text" name="CNPJ ou CPF" class="form-control campo-obrigatorio" placeholder="CNPJ ou CPF:*" />
+                                        <input type="email" name="E-mail" class="form-control campo-obrigatorio" placeholder="E-Mail:*" >
                                     </div>
                                 </div>
 
                                 <div class="form-row">
                                     <div class="form-group">
-                                        <input type="text" name="Empresa" class="form-control" placeholder="Empresa:" />
+                                        <input type="tel" name="Telefone" class="form-control campo-obrigatorio mask-phone" placeholder="Telefone:*" >
                                     </div>
                                     <div class="form-group">
-                                        <input type="text" name="Cidade" class="form-control" placeholder="Cidade:" />
+                                        <input type="text" name="CNPJ ou CPF" class="form-control campo-obrigatorio" placeholder="CNPJ ou CPF:*" >
+                                    </div>
+                                </div>
+
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <input type="text" name="Empresa" class="form-control" placeholder="Empresa:" >
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" name="Cidade" class="form-control" placeholder="Cidade:" >
                                     </div>
                                 </div>
 
@@ -508,4 +506,4 @@ $borg->cssCompress(array(
 
 </body>
 
-</html>                                                                                                                                                                                                                                                                                                                                                                                                                                      
+</html>

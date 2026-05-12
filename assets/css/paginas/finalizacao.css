@@ -1,179 +1,300 @@
+/* ──────────────────────────────────────────────────────────────
+   FINALIZAÇÃO DE COMPRA
+   ────────────────────────────────────────────────────────────── */
+#checkout {
+    padding: 40px 20px 80px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
-        *{
-            margin:0;
-            padding:0;
-            box-sizing:border-box;
-            font-family:Arial, sans-serif;
-        }
+/* ─── Aviso de cupom ─────────────────────── */
+.top-msg {
+    background: #f7f7f7;
+    border: 1px solid var(--border);
+    border-top: 3px solid var(--main);
+    padding: 14px 18px;
+    font-size: 13.5px;
+    color: #555;
+    margin-bottom: 28px;
+    border-radius: 4px;
+}
 
-        body{
-            background:#f7f7f7;
-            color:#222;
-            padding:20px;
-        }
+.top-msg a {
+    color: var(--main-dark, #0d4a1f);
+    text-decoration: underline;
+    font-weight: 600;
+}
 
-        .checkout{
-            max-width:1200px;
-            margin:auto;
-            background:#fff;
-            border:1px solid #e5e5e5;
-            padding:25px;
-        }
+.top-msg a:hover {
+    color: var(--main);
+}
 
-        .top-msg{
-            font-size:12px;
-            margin-bottom:25px;
-            color:#666;
-        }
+.cupom-box {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+}
 
-        .top-msg a{
-            color:#48cfae;
-            text-decoration:none;
-        }
+.cupom-box input {
+    flex: 1;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13.5px;
+}
 
-        .flex{
-            display:flex;
-            gap:40px;
-            align-items:flex-start;
-        }
+.cupom-box button {
+    padding: 8px 20px;
+    background: var(--main);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 13px;
+}
 
-        .left{
-            flex:1;
-        }
+.cupom-box button:hover {
+    opacity: 0.9;
+}
 
-        .right{
-            width:420px;
-        }
+/* ─── Grid 2 colunas ─────────────────────── */
+.checkout-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 36px;
+    margin-bottom: 36px;
+}
 
-        h3{
-            font-size:18px;
-            margin-bottom:20px;
-            font-weight:bold;
-        }
+@media (max-width: 900px) {
+    .checkout-grid {
+        grid-template-columns: 1fr;
+        gap: 28px;
+    }
+}
 
-        .row{
-            display:flex;
-            gap:15px;
-        }
+.checkout-grid h3,
+.seu-pedido h3 {
+    font-size: 18px;
+    color: #333;
+    font-weight: 700;
+    margin: 0 0 18px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border);
+}
 
-        .form-group{
-            margin-bottom:18px;
-            width:100%;
-        }
+/* ─── Form-groups ────────────────────────── */
+.form-group {
+    margin-bottom: 16px;
+}
 
-        .form-group label{
-            display:block;
-            margin-bottom:7px;
-            font-size:13px;
-            font-weight:bold;
-        }
+.form-group label {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    color: #444;
+    margin-bottom: 6px;
+}
 
-        .form-group input,
-        .form-group select,
-        .form-group textarea{
-            width:100%;
-            border:1px solid #dcdcdc;
-            height:38px;
-            padding:10px;
-            font-size:13px;
-            outline:none;
-        }
+.form-group .req {
+    color: #d9534f;
+    font-weight: 700;
+}
 
-        .form-group textarea{
-            height:150px;
-            resize:none;
-        }
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    border: 1px solid #c8c8c8;
+    border-radius: 4px;
+    padding: 10px 12px;
+    font-size: 13.5px;
+    font-family: inherit;
+    background: #fff;
+    color: #333;
+    transition: border-color 0.15s, box-shadow 0.15s;
+}
 
-        table{
-            width:100%;
-            border-collapse:collapse;
-            margin-top:10px;
-        }
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--main);
+    box-shadow: 0 0 0 2px rgba(32, 217, 153, 0.15);
+}
 
-        table th{
-            font-size:12px;
-            text-align:left;
-            border:1px solid #e5e5e5;
-            padding:12px;
-        }
+.form-group textarea {
+    resize: vertical;
+    min-height: 130px;
+}
 
-        table td{
-            border:1px solid #e5e5e5;
-            padding:12px;
-            font-size:13px;
-        }
+.form-group select {
+    appearance: auto;
+    cursor: pointer;
+    height: 40px;
+}
 
-        .produto{
-            color:#49c8a7;
-        }
+.pais-fixo {
+    padding: 10px 12px;
+    border: 1px solid #c8c8c8;
+    border-radius: 4px;
+    background: #fafafa;
+    color: #333;
+    font-size: 13.5px;
+    font-weight: 600;
+}
 
-        .valor-total{
-            color:#00c896;
-            font-weight:bold;
-        }
+/* Linha de 2 inputs lado a lado */
+.row-2col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+}
 
-        .pagamento{
-            margin-top:25px;
-            border:1px solid #e5e5e5;
-            padding:20px;
-        }
+@media (max-width: 500px) {
+    .row-2col {
+        grid-template-columns: 1fr;
+    }
+}
 
-        .pagamento label{
-            font-size:14px;
-            font-weight:bold;
-        }
+/* ─── Seu pedido ─────────────────────────── */
+.seu-pedido {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 28px 32px;
+}
 
-        .pagamento-texto{
-            margin-top:15px;
-            background:#f8f8f8;
-            border:1px solid #eee;
-            padding:15px;
-            font-size:13px;
-            color:#555;
-            line-height:1.7;
-        }
+.tabela-pedido {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13.5px;
+    margin-bottom: 24px;
+}
 
-        .privacidade{
-            margin-top:25px;
-            font-size:12px;
-            line-height:1.8;
-            color:#555;
-        }
+.tabela-pedido th,
+.tabela-pedido td {
+    padding: 14px 8px;
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+    vertical-align: top;
+}
 
-        .privacidade a{
-            color:#49c8a7;
-            text-decoration:none;
-        }
+.tabela-pedido thead th {
+    background: #f7f7f7;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #555;
+    font-weight: 700;
+}
 
-        .button{
-            margin-top:20px;
-            background:#33d0a7;
-            border:none;
-            color:#fff;
-            padding:13px 25px;
-            font-size:13px;
-            font-weight:bold;
-            cursor:pointer;
-            transition:.3s;
-        }
+.tabela-pedido tbody .produto {
+    color: #333;
+    line-height: 1.5;
+}
 
-        .button:hover{
-            opacity:.9;
-        }
+.tabela-pedido tbody .produto .qtd-x {
+    color: var(--main);
+    font-weight: 700;
+    margin-left: 6px;
+}
 
-        @media(max-width:991px){
+/* ─── Bloco de pagamento ─────────────────── */
+.pagamento-info {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 18px 20px;
+    background: #fafafa;
+    margin-bottom: 22px;
+}
 
-            .flex{
-                flex-direction:column;
-            }
+.pagamento-titulo {
+    font-size: 14px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
 
-            .right{
-                width:100%;
-            }
+.pagamento-titulo i {
+    color: var(--main);
+}
 
-            .row{
-                flex-direction:column;
-                gap:0;
-            }
+.pagamento-texto {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.6;
+}
 
-        }
+/* ─── Privacidade ────────────────────────── */
+.privacidade {
+    font-size: 12.5px;
+    color: #666;
+    line-height: 1.65;
+    margin-bottom: 22px;
+}
+
+.privacidade a {
+    color: var(--main-dark, #0d4a1f);
+    text-decoration: underline;
+}
+
+.privacidade a:hover {
+    color: var(--main);
+}
+
+/* ─── Botão Finalizar (WhatsApp) ─────────── */
+.btn-finalizar-wa {
+    display: inline-block;
+    padding: 14px 32px;
+    background: var(--main);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.1s;
+}
+
+.btn-finalizar-wa:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
+
+.btn-finalizar-wa:active {
+    transform: translateY(0);
+}
+
+/* ─── Carrinho vazio dentro do checkout ──── */
+.pedido-vazio {
+    text-align: center;
+    padding: 30px 10px 6px;
+}
+
+.pedido-vazio p {
+    color: #555;
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+
+.btn-voltar-loja {
+    display: inline-block;
+    padding: 10px 24px;
+    background: var(--main);
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 13.5px;
+}
+
+.btn-voltar-loja:hover {
+    opacity: 0.9;
+    color: #fff;
+}

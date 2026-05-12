@@ -2,6 +2,10 @@
   margin-top: 40px;
 }
 
+.pd-0 {
+  padding: 0 !important;
+}
+
 #banner-home {
   margin-top: -70px;
   color: white;
@@ -31,6 +35,10 @@
   font-size: 40px;
   text-align: center;
   background: rgba(0, 0, 0, 0.322);
+  width: 100%;
+  padding: 14px 18px;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .scroll-down {
@@ -75,6 +83,7 @@
 
 #transformadores {
   text-align: center;
+  padding: 20px;
 }
 
 #transformadores .transformadores-titulo {
@@ -84,7 +93,7 @@
   justify-content: center;
   font-size: 30px;
   font-weight: 200;
-  text-wrap: nowrap;
+  text-wrap: wrap;
 }
 
 #transformadores .raio-separador i {
@@ -98,17 +107,19 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 #transformadores .card {
   background: #fff;
   position: relative;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding: 40px 40px 40px 40px;
+  justify-self: center;
+  padding: 40px;
   box-shadow:
     rgba(0, 0, 0, 0.19) 0px 10px 20px,
     rgba(0, 0, 0, 0.23) 0px 6px 6px;
@@ -210,8 +221,10 @@
 }
 
 #servicos .card-flip {
+  display: flex;
+  justify-content: center;
   perspective: 1000px;
-  width: 368px;
+  width: 100%;
   height: 390px;
 }
 
@@ -238,6 +251,7 @@
 #servicos .card-front,
 #servicos .card-back {
   position: absolute;
+  justify-self: center;
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
@@ -288,7 +302,7 @@
   justify-content: center;
   font-size: 30px;
   font-weight: 200;
-  text-wrap: nowrap;
+  text-wrap: wrap;
 }
 
 #baixa-tensao .raio-separador i {
@@ -309,7 +323,7 @@
   box-shadow:
     rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
     rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
-  width: 100%;
+  width: 80%;
   height: 900px;
   text-align: center;
 }
@@ -939,4 +953,196 @@
 
 #clientes .col-lg-2, #clientes .col-md-2, #clientes .col-sm-12, #clientes .col-xs-12 {
     padding: 0;
+}
+
+
+/* ── Tablet landscape e abaixo ───────────────── */
+@media (max-width: 991px) {
+  #banner-home h1 { font-size: 32px; }
+
+  #transformadores .card,
+  #transformadores .card-mid {
+    width: 100%;
+    height: auto;
+    padding: 32px 24px;
+  }
+  #baixa-tensao .box-card {
+    flex-wrap: wrap;
+  }
+
+  #baixa-tensao .card {
+    
+    width: 100%;
+    height: auto;
+    padding: 32px 24px;
+  }
+
+  #servicos      { padding: 50px 20px; top: -120px; }
+  #servicos .transformadores-titulo { margin-top: 80px; }
+  #eletricos,
+  #orcamento     { padding: 50px 20px; }
+
+  #eletricos .box-text h2,
+  #atuacao .box-text h2,
+  #orcamento h2,
+  #artigos .artigos-titulo h2,
+  #clientes .artigos-titulo h2 { font-size: 30px; }
+}
+
+/* ── Tablet portrait ────────────────────────── */
+@media (max-width: 768px) {
+  #banner-home {
+    height: 70dvh;
+    min-height: 480px;
+  }
+  #banner-home h1 {
+    font-size: 26px;
+    padding: 10px 14px;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+  }
+
+  #transformadores               { padding: 16px; }
+  #transformadores .transformadores-titulo { font-size: 22px; }
+
+  #servicos                      { padding: 40px 16px; top: -100px; }
+  #servicos .transformadores-titulo { margin-top: 60px; font-size: 24px; }
+  #servicos .card-flip           { height: auto; min-height: 320px; }
+
+  #baixa-tensao .transformadores-titulo { font-size: 22px; }
+
+  #eletricos,
+  #atuacao,
+  #orcamento { padding: 40px 16px; }
+
+  #eletricos .box-text h2,
+  #atuacao .box-text h2,
+  #orcamento h2,
+  #artigos .artigos-titulo h2,
+  #clientes .artigos-titulo h2 { font-size: 24px; }
+
+  #eletricos .box-text p,
+  #atuacao .box-text p { font-size: 15px; line-height: 22px; }
+
+  /* Clientes — wrap das 6 imagens, tamanho reduzido */
+  #clientes .box-clientes {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  #clientes .box-clientes img {
+    width: 110px;
+    height: 110px;
+  }
+  #clientes .col-lg-2,
+  #clientes .col-md-2,
+  #clientes .col-sm-12,
+  #clientes .col-xs-12 {
+    width: auto;
+    flex: 0 0 auto;
+  }
+
+  /* Artigos — botões prev/next com menos padding lateral */
+  #artigos .box-artigos { padding: 0 36px; }
+}
+
+/* ── Mobile grande ──────────────────────────── */
+@media (max-width: 580px) {
+  #banner-home {
+    height: auto;
+    min-height: 70dvh;
+    padding: 80px 12px 60px;
+  }
+  #banner-home h1 {
+    font-size: 22px;
+    line-height: 1.35;
+  }
+
+  #transformadores                { padding: 12px; }
+  #transformadores .card,
+  #transformadores .card-mid {
+    padding: 24px 16px;
+    margin-bottom: 24px;
+  }
+  #transformadores .card a,
+  #baixa-tensao .card a,
+  #eletricos a {
+    font-size: 14px;
+    padding: 0.85em 1.6em;
+    margin: 2.5rem 0 0 0;
+    min-height: 3rem;
+  }
+
+  #servicos                       { padding: 32px 12px; top: -80px; }
+  #servicos .transformadores-titulo { margin-top: 40px; font-size: 22px; }
+
+  #eletricos,
+  #atuacao,
+  #orcamento { padding: 32px 12px; }
+
+  #eletricos .box-text h2,
+  #atuacao .box-text h2,
+  #orcamento h2,
+  #artigos .artigos-titulo h2,
+  #clientes .artigos-titulo h2 { font-size: 20px; }
+
+  #orcamento h2 { padding: 10px 0; margin-bottom: 24px; }
+
+  /* Form — 1 coluna a partir daqui (já existia em 520, antecipo) */
+  #orcamento .form-row { grid-template-columns: 1fr; }
+
+  /* Artigos */
+  #artigos .box-artigos { padding: 0 30px; }
+  #artigos .card        { min-height: auto; }
+  #artigos .card .img-responsive { height: 180px; }
+  #artigos .box-artigos .prev,
+  #artigos .box-artigos .next {
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
+  }
+}
+
+/* ── Mobile pequeno (320–380) ────────────────── */
+@media (max-width: 380px) {
+  #banner-home h1 {
+    font-size: 18px;
+    padding: 8px 10px;
+  }
+
+  #transformadores .card,
+  #transformadores .card-mid {
+    padding: 20px 14px;
+  }
+  #transformadores .card h2,
+  #baixa-tensao .card h2 { font-size: 18px; }
+  #transformadores .card p,
+  #baixa-tensao .card p { font-size: 13.5px; line-height: 1.55; }
+
+  #baixa-tensao .card    { padding: 24px 14px; }
+
+  #servicos              { padding: 28px 10px; top: -60px; }
+  #servicos .transformadores-titulo { margin-top: 30px; font-size: 20px; }
+  #servicos .card-flip   { min-height: 280px; }
+  #servicos .card-front i { font-size: 32px; }
+  #servicos .card-front h2 { font-size: 16px; }
+  #servicos .card-front p,
+  #servicos .card-back p   { font-size: 13px; line-height: 1.5; }
+
+  #eletricos,
+  #atuacao,
+  #orcamento { padding: 28px 10px; }
+
+  #eletricos .box-text h2,
+  #atuacao .box-text h2,
+  #orcamento h2,
+  #artigos .artigos-titulo h2,
+  #clientes .artigos-titulo h2 { font-size: 18px; }
+
+  #clientes .box-clientes img {
+    width: 92px;
+    height: 92px;
+  }
+
+  /* Carrossel — espaço lateral menor para botões */
+  #artigos .box-artigos { padding: 0 26px; }
 }

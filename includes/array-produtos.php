@@ -4,7 +4,6 @@ $url = "http://localhost/_Dev/inovaequipamentoseletricos.com.br/";
 // $url = "https://aprov.buscaorganica.com.br/inovaequipamentoseletricos.com.br/";
 
 $produtos = [
-
     "transformador-a-oleo-15kva" => [
         "imagem" => "transformador_a_oleo_15kva",
         "nome" => "Transformador a Óleo 15KVA",
@@ -71,14 +70,6 @@ $produtos = [
                 </div>
                 
                 <div class="produto-compra-area">
-    
-                    <div class="produto-preco-dinamico">
-                        <span class="preco-valor">R$ —</span>
-                    </div>
-
-                    <div class="produto-estoque">
-                        1 em estoque (pode ser encomendado)
-                    </div>
 
                     <div class="produto-acoes">
                         <div class="quantidade-wrapper">
@@ -107,11 +98,6 @@ $produtos = [
     <div class="container">
         <div class="row">
             <div class="col-12">
-
-                <div class="abas">
-                    <button class="aba aba--ativa" data-aba="descricao-transformador-a-seco-2500kva">Descrição</button>
-                    <button class="aba" data-aba="info-adicional-transformador-a-seco-2500kva">Informação adicional</button>
-                </div>
 
                 <div class="abas">
                     <button class="aba aba--ativa" data-aba="descricao-transformador-a-oleo-15kva">Descrição</button>
@@ -255,10 +241,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -419,10 +412,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -583,10 +583,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -747,10 +754,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -911,10 +925,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -1075,10 +1096,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -1239,10 +1267,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -1403,10 +1438,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -1567,10 +1609,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -1718,10 +1767,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -1869,10 +1925,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -2020,10 +2083,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -2171,10 +2241,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -2322,10 +2399,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -2473,10 +2557,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -2543,10 +2634,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 30KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -2622,10 +2713,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -2692,10 +2790,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 45KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -2772,10 +2870,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -2842,10 +2947,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 75KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -2921,10 +3026,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -2991,10 +3103,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 112,5KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -3070,10 +3182,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -3140,10 +3259,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 150KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -3219,10 +3338,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -3289,10 +3415,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 225KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -3368,10 +3494,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -3438,10 +3571,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 300KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -3516,10 +3649,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -3590,10 +3730,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 500KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -3669,10 +3809,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -3739,10 +3886,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 750KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -3818,10 +3965,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -3891,10 +4045,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 1000KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -3969,10 +4123,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -4039,10 +4200,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 1250KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -4117,10 +4278,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -4188,10 +4356,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 1250KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -4266,10 +4434,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -4338,10 +4513,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 2000KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -4416,10 +4591,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -4488,10 +4670,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 2500KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -4566,10 +4748,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -4638,10 +4827,10 @@ $produtos = [
                     <p>O transformador a seco encontra aplicação em diversas áreas, como edifícios comerciais, escolas, pequenas indústrias, hospitais, centros recreativos e locais de eventos. Ele é adequado para fornecer energia confiável em locais de carga moderada, como centros de dados, condomínios, estabelecimentos comerciais menores e infraestrutura urbana. Sua versatilidade e segurança fazem dele uma escolha ideal para diversas instalações.</p>
 
                     <h2>5 – OUTRAS CARACTERÍSTICAS DO TRANSFORMADOR A SECO 3000KVA:</h2>
-                    <p>Seguro: Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
-                    <p>Econômico: Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
-                    <p>Ecológico: Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
-                    <p>Adaptável: A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
+                    <p><strong>Seguro:</strong> Isento de descargas parciais, suportabilidade às tensões de impulso e aplicada, capacidade de sobrecarga, resistente a umidade, alta suportabilidade à curtos circuitos;</p>
+                    <p><strong>Econômico:</strong> Instalado nos centros de carga permite otimização do projeto de instalação, maior simplicidade nas eventuais mudanças de lay-out das instalações, torna desnecessária a construção de obras civis ou proteções especiais;</p>
+                    <p><strong>Ecológico:</strong> Sem líquidos isolantes, resistente a chamas e auto-extinguível, não emite gases tóxicos, totalmente reciclável, isento de manutenção;</p>
+                    <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
                         <a href="#" class="button">Faça um Orçamento</a>
@@ -4717,10 +4906,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -4885,10 +5081,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -5029,10 +5232,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -5174,10 +5384,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -5323,11 +5540,18 @@ $produtos = [
                         </div>
                     </div>
 
-                    <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                        <a href="#" class="button">
-                            <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                        </a>
+                    <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
                     </div>
+                </div>
 
                     <div class="produto-meta mt-4">
                         <p><strong>SKU:</strong> TP-150KVA</p>
@@ -5467,11 +5691,18 @@ $produtos = [
                         </div>
                     </div>
 
-                    <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                        <a href="#" class="button">
-                            <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                        </a>
+                    <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
                     </div>
+                </div>
 
                     <div class="produto-meta mt-4">
                         <p><strong>SKU:</strong> TP-225KVA</p>
@@ -5625,11 +5856,18 @@ $produtos = [
                         </div>
                     </div>
 
-                    <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                        <a href="#" class="button">
-                            <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                        </a>
+                    <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
                     </div>
+                </div>
 
                     <div class="produto-meta mt-4">
                         <p><strong>SKU:</strong> TP-300KVA</p>
@@ -5783,11 +6021,18 @@ $produtos = [
                         </div>
                     </div>
 
-                    <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                        <a href="#" class="button">
-                            <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                        </a>
+                    <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
                     </div>
+                </div>
 
                     <div class="produto-meta mt-4">
                         <p><strong>SKU:</strong> TP-500KVA</p>
@@ -5941,11 +6186,18 @@ $produtos = [
                         </div>
                     </div>
 
-                    <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                        <a href="#" class="button">
-                            <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                        </a>
+                    <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
                     </div>
+                </div>
 
                     <div class="produto-meta mt-4">
                         <p><strong>SKU:</strong> TP-750KVA</p>
@@ -6099,11 +6351,18 @@ $produtos = [
                         </div>
                     </div>
 
-                    <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                        <a href="#" class="button">
-                            <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                        </a>
+                    <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
                     </div>
+                </div>
 
                     <div class="produto-meta mt-4">
                         <p><strong>SKU:</strong> TP-1000KVA</p>
@@ -6257,11 +6516,18 @@ $produtos = [
                         </div>
                     </div>
 
-                    <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                        <a href="#" class="button">
-                            <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                        </a>
+                    <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
                     </div>
+                </div>
 
                     <div class="produto-meta mt-4">
                         <p><strong>SKU:</strong> TP-1500KVA</p>
@@ -6415,11 +6681,18 @@ $produtos = [
                         </div>
                     </div>
 
-                    <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                        <a href="#" class="button">
-                            <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                        </a>
+                    <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
                     </div>
+                </div>
 
                     <div class="produto-meta mt-4">
                         <p><strong>SKU:</strong> TP-2000KVA</p>
@@ -6574,10 +6847,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -6740,10 +7020,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -6887,10 +7174,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -7021,10 +7315,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -7153,10 +7454,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -7286,10 +7594,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -7420,10 +7735,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -7553,10 +7875,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -7686,10 +8015,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -7819,10 +8155,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -7952,10 +8295,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -8085,10 +8435,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -8218,10 +8575,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -8351,10 +8715,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -8484,11 +8855,18 @@ $produtos = [
                         </div>
                     </div>
 
-                    <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                        <a href="#" class="button">
-                            <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                        </a>
+                    <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
                     </div>
+                </div>
 
                     <div class="produto-meta mt-4">
                         <p><strong>SKU:</strong> TI-100KVA</p>
@@ -8617,10 +8995,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -8750,10 +9135,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -8883,10 +9275,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -9016,10 +9415,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -9149,10 +9555,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -9282,10 +9695,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -9414,10 +9834,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -9547,10 +9974,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>-->
 
                 <div class="produto-meta mt-4">
@@ -9680,10 +10114,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>-->
 
                 <div class="produto-meta mt-4">
@@ -9813,10 +10254,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>-->
 
                 <div class="produto-meta mt-4">
@@ -9946,10 +10394,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>-->
 
                 <div class="produto-meta mt-4">
@@ -10079,10 +10534,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -10246,10 +10708,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -10413,10 +10882,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -10580,10 +11056,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -10747,10 +11230,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -10919,10 +11409,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -11072,10 +11569,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -11225,10 +11729,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -11378,10 +11889,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -11531,10 +12049,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -11684,10 +12209,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -11837,10 +12369,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -11990,10 +12529,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -12143,10 +12689,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -12296,10 +12849,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -12449,10 +13009,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -12602,10 +13169,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -12755,10 +13329,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -12908,10 +13489,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -13061,10 +13649,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -13214,10 +13809,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -13367,10 +13969,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -13520,10 +14129,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -13672,10 +14288,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -13824,10 +14447,17 @@ $produtos = [
                     </div>
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>
 
                 <div class="produto-meta mt-4">
@@ -13976,10 +14606,17 @@ $produtos = [
                     </div>*/
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>-->
 
                 <div class="produto-meta mt-4">
@@ -14134,10 +14771,17 @@ $produtos = [
                     </div>*/
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>-->
 
                 <div class="produto-meta mt-4">
@@ -14291,10 +14935,17 @@ $produtos = [
                     </div>*/
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>-->
 
                 <div class="produto-meta mt-4">
@@ -14449,10 +15100,17 @@ $produtos = [
                     </div>*/
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>-->
 
                 <div class="produto-meta mt-4">
@@ -14607,10 +15265,17 @@ $produtos = [
                     </div>*/
                 </div>
 
-                <div class="produto-compra d-flex align-items-center gap-3 flex-wrap">
-                    <a href="#" class="button">
-                        <i class="fas fa-shopping-cart me-2"></i>Adicionar ao carrinho
-                    </a>
+                <div class="produto-compra-area">
+                    <div class="produto-acoes">
+                        <div class="quantidade-wrapper">
+                            <button type="button" class="qtd-btn qtd-menos" aria-label="Diminuir quantidade">-</button>
+                            <input type="number" class="qtd-input" value="1" min="1" aria-label="Quantidade">
+                            <button type="button" class="qtd-btn qtd-mais" aria-label="Aumentar quantidade">+</button>
+                        </div>
+                        <button type="button" class="btn-add-carrinho" disabled>
+                            Adicionar ao carrinho
+                        </button>
+                    </div>
                 </div>-->
 
                 <div class="produto-meta mt-4">

@@ -103,10 +103,8 @@
     border-bottom: none;
 }
 
-.col-produto { width: 40%; }
-.col-preco { width: 15%; }
-.col-qtd { width: 17%; }
-.col-subtotal { width: 18%; font-weight: 700; color: var(--main); }
+.col-produto { width: 65%; }
+.col-qtd { width: 25%; }
 .col-remover { width: 10%; text-align: center; }
 
 .col-produto .nome-link {
@@ -222,13 +220,8 @@
     color: #444;
 }
 
-.resumo-total {
-    font-size: 18px;
-    font-weight: 700;
-    color: var(--main);
-    margin-top: 14px;
-    padding-top: 14px;
-    border-top: 1px solid #eee;
+.resumo-linha:last-of-type {
+    margin-bottom: 0;
 }
 
 .btn-finalizar {

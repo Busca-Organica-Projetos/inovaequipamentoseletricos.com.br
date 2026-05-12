@@ -49,9 +49,7 @@ $borg->cssCompress(array(
                             <thead>
                                 <tr>
                                     <th class="col-produto">Produto</th>
-                                    <th class="col-preco">Preço</th>
                                     <th class="col-qtd">Quantidade</th>
-                                    <th class="col-subtotal">Subtotal</th>
                                     <th class="col-remover"></th>
                                 </tr>
                             </thead>
@@ -64,12 +62,8 @@ $borg->cssCompress(array(
                     <div class="carrinho-resumo">
                         <h3>Resumo do pedido</h3>
                         <div class="resumo-linha">
-                            <span>Subtotal</span>
-                            <span id="resumoSubtotal">R$ 0,00</span>
-                        </div>
-                        <div class="resumo-linha resumo-total">
-                            <span>Total</span>
-                            <span id="resumoTotal">R$ 0,00</span>
+                            <span>Itens no carrinho</span>
+                            <span id="resumoQtd">0</span>
                         </div>
                         <button type="button" class="btn-finalizar" id="btnFinalizar">
                             Finalizar pedido
@@ -88,13 +82,12 @@ $borg->cssCompress(array(
 
     <script>
     (function () {
-        const tbody       = document.getElementById('tabelaCarrinhoBody');
-        const vazio       = document.getElementById('carrinhoVazio');
-        const conteudo    = document.getElementById('carrinhoConteudo');
-        const elSubtotal  = document.getElementById('resumoSubtotal');
-        const elTotal     = document.getElementById('resumoTotal');
-        const btnFin      = document.getElementById('btnFinalizar');
-        const URL_BASE    = '<?= $url ?>';
+        const tbody     = document.getElementById('tabelaCarrinhoBody');
+        const vazio     = document.getElementById('carrinhoVazio');
+        const conteudo  = document.getElementById('carrinhoConteudo');
+        const elQtd     = document.getElementById('resumoQtd');
+        const btnFin    = document.getElementById('btnFinalizar');
+        const URL_BASE  = '<?= $url ?>';
 
         function getCarrinho() {
             try {
@@ -106,10 +99,6 @@ $borg->cssCompress(array(
 
         function setCarrinho(itens) {
             localStorage.setItem('carrinho_inova', JSON.stringify(itens));
-        }
-
-        function formatPreco(v) {
-            return 'R$' + (v || 0).toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
         }
 
         function render() {
@@ -125,11 +114,10 @@ $borg->cssCompress(array(
             vazio.style.display = 'none';
             conteudo.style.display = '';
 
-            let total = 0;
+            let totalQtd = 0;
 
             itens.forEach((item, idx) => {
-                const subtotal = (item.preco || 0) * (item.qtd || 1);
-                total += subtotal;
+                totalQtd += (item.qtd || 0);
 
                 const opcoesHtml = Object.entries(item.opcoes || {})
                     .map(([k, v]) => `<small><strong>${k}:</strong> ${v}</small>`)
@@ -141,7 +129,6 @@ $borg->cssCompress(array(
                         <a href="${URL_BASE}produto/${item.slug}/" class="nome-link">${item.nome}</a>
                         <div class="opcoes-resumo">${opcoesHtml}</div>
                     </td>
-                    <td class="col-preco">${formatPreco(item.preco || 0)}</td>
                     <td class="col-qtd">
                         <div class="qtd-controle">
                             <button type="button" class="qtd-mini-btn" data-acao="menos" data-idx="${idx}">-</button>
@@ -149,7 +136,6 @@ $borg->cssCompress(array(
                             <button type="button" class="qtd-mini-btn" data-acao="mais" data-idx="${idx}">+</button>
                         </div>
                     </td>
-                    <td class="col-subtotal">${formatPreco(subtotal)}</td>
                     <td class="col-remover">
                         <button type="button" class="btn-remover" data-idx="${idx}" aria-label="Remover item">
                             <i class="fas fa-times"></i>
@@ -159,8 +145,7 @@ $borg->cssCompress(array(
                 tbody.appendChild(tr);
             });
 
-            elSubtotal.textContent = formatPreco(total);
-            elTotal.textContent    = formatPreco(total);
+            elQtd.textContent = totalQtd;
         }
 
         // Delegação de eventos: quantidade ± e remover
@@ -188,7 +173,7 @@ $borg->cssCompress(array(
         });
 
         btnFin.addEventListener('click', () => {
-            alert('Pedido enviado! Em breve nossa equipe entrará em contato.');
+            window.location.href = URL_BASE + 'finalizacao-de-compra';
         });
 
         render();

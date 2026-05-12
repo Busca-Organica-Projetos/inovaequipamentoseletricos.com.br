@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', function () {
     // QUANTIDADE (+ / −)
     // ═══════════════════════════════════════════════════════════════════════════
     const qtdInput = document.querySelector('.qtd-input');
-    const qtdMenos = document.querySelector('#qtd-menos');
-    const qtdMais  = document.querySelector('#qtd-mais');
+    const qtdMenos = document.querySelector('.qtd-menos');
+    const qtdMais  = document.querySelector('.qtd-mais');
 
     if (qtdMenos && qtdMais && qtdInput) {
         qtdMenos.addEventListener('click', () => {
@@ -20,47 +20,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // ═══════════════════════════════════════════════════════════════════════════
     // OPÇÕES DO PRODUTO — habilita "Adicionar ao carrinho" só quando TODAS as
-    // opções (Entrada, Enrolamento, Proteção, Potência, Tensão, etc.) estão
-    // selecionadas. Também atualiza dinamicamente o preço.
+    // opções (Entrada, Enrolamento, Proteção, etc.) estão selecionadas.
     // ═══════════════════════════════════════════════════════════════════════════
-    const selects   = document.querySelectorAll('.produto-opcoes .opcao-select');
-    const btnAdd    = document.querySelector('.btn-add-carrinho');
-    const precoEl   = document.querySelector('.produto-preco-dinamico .preco-valor');
-    const precoFull = document.querySelector('.produto-preco');
-
-    // Parse "R$7.398,00 – R$8.316,00" → [7398.00, 8316.00]
-    function parsePrecoRange(texto) {
-        if (!texto) return [null, null];
-        const matches = texto.replace(/\s/g, '').match(/R\$([\d.,]+)/g) || [];
-        const valores = matches.map(m => {
-            const limpo = m.replace('R$', '').replace(/\./g, '').replace(',', '.');
-            return parseFloat(limpo);
-        });
-        return [valores[0] || null, valores[1] || valores[0] || null];
-    }
-
-    function formatPreco(valor) {
-        return 'R$' + valor.toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-    }
-
-    const [precoMin, precoMax] = precoFull ? parsePrecoRange(precoFull.textContent) : [null, null];
+    const selects = document.querySelectorAll('.produto-opcoes .opcao-select');
+    const btnAdd  = document.querySelector('.btn-add-carrinho');
 
     function todosSelecionados() {
         if (selects.length === 0) return true; // produto sem opções
         return Array.from(selects).every(s => s.value && s.value !== '');
-    }
-
-    function atualizarPreco() {
-        if (!precoEl || precoMin === null) return;
-        if (todosSelecionados() && selects.length > 0) {
-            // Estratégia simples: enquanto não temos preço por combinação,
-            // mostramos o preço mínimo do range quando todas as opções estão escolhidas
-            precoEl.textContent = formatPreco(precoMin);
-        } else if (selects.length === 0) {
-            precoEl.textContent = formatPreco(precoMin);
-        } else {
-            precoEl.textContent = 'R$ —';
-        }
     }
 
     function atualizarBotao() {
@@ -69,14 +36,9 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     selects.forEach(s => {
-        s.addEventListener('change', () => {
-            atualizarPreco();
-            atualizarBotao();
-        });
+        s.addEventListener('change', atualizarBotao);
     });
 
-    // Estado inicial
-    atualizarPreco();
     atualizarBotao();
 
     // ═══════════════════════════════════════════════════════════════════════════
@@ -102,7 +64,6 @@ document.addEventListener('DOMContentLoaded', function () {
             document.body.appendChild(toast);
         }
         toast.textContent = msg;
-        // force reflow
         void toast.offsetWidth;
         toast.classList.add('show');
         setTimeout(() => toast.classList.remove('show'), 2500);
@@ -125,7 +86,6 @@ document.addEventListener('DOMContentLoaded', function () {
             });
 
             const carrinho = getCarrinho();
-            // Mesma combinação? incrementa quantidade
             const chave = slug + '|' + JSON.stringify(opcoes);
             const existente = carrinho.find(i => i.chave === chave);
             if (existente) {
@@ -133,11 +93,10 @@ document.addEventListener('DOMContentLoaded', function () {
             } else {
                 carrinho.push({
                     chave: chave,
-                    slug: slug,
-                    nome: nome,
-                    preco: precoMin || 0,
+                    slug:  slug,
+                    nome:  nome,
                     opcoes: opcoes,
-                    qtd: qtd,
+                    qtd:   qtd,
                 });
             }
             setCarrinho(carrinho);
