@@ -27,7 +27,7 @@ $produtos = [
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="produto-galeria">
                     <div class="produto-imagem-principal">
-                        <img src="' . $url . 'imagens/main/produtos/transformador_a_oleo_15kva.webp" alt="Transformador a Óleo 15KVA" id="img-principal">
+                        <img src="' . $url . 'imagens/main/produtos/transformador_a_oleo_15kva.webp" alt="Transformador a Óleo 15KVA" id="img-principal" loading="lazy">
                     </div>
                 </div>
             </div>

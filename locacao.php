@@ -76,7 +76,7 @@ $borg->cssCompress(array(
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
                                 <div class="filtros">
                                     <a href="<?php $url ?>portfolio-item/locacao-autotransformadores/">
-                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_isolador_5kva.webp" alt="">
+                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_isolador_5kva.webp" alt="" loading="lazy">
                                     </a>
                                     <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
                                         <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
@@ -87,7 +87,7 @@ $borg->cssCompress(array(
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
                                 <div class="filtros">
                                     <a href="<?php $url ?>portfolio-item/locacao-transformadores-a-seco/">
-                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_a_seco_1250kva.webp" alt="">
+                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_a_seco_1250kva.webp" alt="" loading="lazy">
                                     </a>
                                     <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
                                         <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
@@ -98,7 +98,7 @@ $borg->cssCompress(array(
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
                                 <div class="filtros">
                                     <a href="<?php $url ?>portfolio-item/locacao-transformadores-a-oleo/">
-                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_a_oleo_150kva.webp" alt="">
+                                        <img class="img-responsive" src="<?php $url ?>imagens/main/produtos/transformador_a_oleo_150kva.webp" alt="" loading="lazy">
                                     </a>
                                     <!-- <svg class="card-seta" viewBox="0 0 100 12" preserveAspectRatio="none">
                                         <polygon points="0,12 45,12 50,0 55,12 100,12" fill="#f4f6f4" />
@@ -121,28 +121,28 @@ $borg->cssCompress(array(
 
                                 <div class="form-row">
                                     <div class="form-group">
-                                        <input type="text" name="Nome" class="form-control campo-obrigatorio" placeholder="Nome:*" />
+                                        <input type="text" name="Nome" class="form-control campo-obrigatorio" placeholder="Nome:*" >
                                     </div>
                                     <div class="form-group">
-                                        <input type="email" name="E-mail" class="form-control campo-obrigatorio" placeholder="E-Mail:*" />
-                                    </div>
-                                </div>
-
-                                <div class="form-row">
-                                    <div class="form-group">
-                                        <input type="tel" name="Telefone" class="form-control campo-obrigatorio mask-phone" placeholder="Telefone:*" />
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="text" name="CNPJ ou CPF" class="form-control campo-obrigatorio" placeholder="CNPJ ou CPF:*" />
+                                        <input type="email" name="E-mail" class="form-control campo-obrigatorio" placeholder="E-Mail:*" >
                                     </div>
                                 </div>
 
                                 <div class="form-row">
                                     <div class="form-group">
-                                        <input type="text" name="Empresa" class="form-control" placeholder="Empresa:" />
+                                        <input type="tel" name="Telefone" class="form-control campo-obrigatorio mask-phone" placeholder="Telefone:*" >
                                     </div>
                                     <div class="form-group">
-                                        <input type="text" name="Cidade" class="form-control" placeholder="Cidade:" />
+                                        <input type="text" name="CNPJ ou CPF" class="form-control campo-obrigatorio" placeholder="CNPJ ou CPF:*" >
+                                    </div>
+                                </div>
+
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <input type="text" name="Empresa" class="form-control" placeholder="Empresa:" >
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" name="Cidade" class="form-control" placeholder="Cidade:" >
                                     </div>
                                 </div>
 

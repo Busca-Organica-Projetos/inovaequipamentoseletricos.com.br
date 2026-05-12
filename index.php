@@ -83,7 +83,7 @@ $borg->cssCompress(array(
                         <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 pd-0">
                             <div class="card">
                                 <h2>TRANSFORMADOR A SECO:</h2>
-                                <img src="<?php $url ?>imagens/main/home/transformador_a_seco.webp" alt="">
+                                <img src="<?php $url ?>imagens/main/home/transformador_a_seco.webp" alt="" loading="lazy">
                                 <p>Os transformadores a seco são soluções modernas e ambientalmente amigável para atender às necessidades de distribuição de energia elétrica. Diferentemente dos transformadores tradicionais a óleo, esses transformadores não utilizam líquidos isolantes, o que os torna uma opção mais segura e sustentável.</p>
                                 <a href="<?= $url ?>portfolio-item/transformadores-a-seco/">SAIBA MAIS</a>
                             </div>
@@ -91,7 +91,7 @@ $borg->cssCompress(array(
                         <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 pd-0">
                             <div class="card card-mid">
                                 <h2>TRANSFORMADOR A ÓLEO:</h2>
-                                <img src="<?php $url ?>imagens/main/home/transformador_a_oleo.webp" alt="">
+                                <img src="<?php $url ?>imagens/main/home/transformador_a_oleo.webp" alt="" loading="lazy">
                                 <p>Transformadores a óleo são peças fundamentais no sistema de distribuição de energia elétrica. Ele desempenha o papel crucial de converter tensões elétricas, permitindo a transferência eficiente de eletricidade entre diferentes níveis de tensão. Este tipo de transformador utiliza óleo isolante como meio de resfriamento e isolamento elétrico, garantindo a operação segura e estável do equipamento.</p>
                                 <a href="<?php $url ?>portfolio-item/transformadores-a-oleo/">SAIBA MAIS</a>
                             </div>
@@ -99,7 +99,7 @@ $borg->cssCompress(array(
                         <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 pd-0">
                             <div class="card">
                                 <h2>TRANSFORMADOR PEDESTAL:</h2>
-                                <img src="<?php $url ?>imagens/main/home/transformador_pedestal_3000kva.webp" alt="">
+                                <img src="<?php $url ?>imagens/main/home/transformador_pedestal_3000kva.webp" alt="" loading="lazy">
                                 <p>Os transformadores pedestal são soluções versáteis e eficientes para atender às necessidades de distribuição de energia elétrica. Projetado para ser montado em pedestais elevados, este tipo de transformador oferece inúmeras vantagens em termos de instalação, manutenção e operação confiável.</p>
                                 <a href="<?php $url ?>portfolio-item/transformadores-pedestal/">SAIBA MAIS</a>
                             </div>
@@ -183,13 +183,13 @@ $borg->cssCompress(array(
                     <div class="box-card">
                         <div class="card">
                             <h2>AUTOTRANSFORAMADOR:</h2>
-                            <img class="img-responsive" src="<?php $url ?>imagens/main/home/transformador_isolador_5kva.webp" alt="tranformador isolador 5kva">
+                            <img class="img-responsive" src="<?php $url ?>imagens/main/home/transformador_isolador_5kva.webp" alt="tranformador isolador 5kva" loading="lazy">
                             <p>Os autotransformadores são uma solução engenhosa para efetuar a conversão de tensão elétrica com eficiência e economia. Sua característica única de compartilhar enrolamentos entre a entrada e a saída resulta em um design compacto e eficaz, reduzindo perdas e custos.</p>
                             <a href="<?= $url ?>portfolio-item/autotransformadores/">SAIBA MAIS</a>
                         </div>
                         <div class="card">
                             <h2>TRANSFORMADOR ISOLADOR:</h2>
-                            <img class="img-responsive" src="<?php $url ?>imagens/main/home/transformador_isolador_5kva.webp" alt="transformador isolador ">
+                            <img class="img-responsive" src="<?php $url ?>imagens/main/home/transformador_isolador_5kva.webp" alt="transformador isolador" loading="lazy">
                             <p>Os transformadores isoladores desempenham um papel essencial na proteção de sistemas elétricos e equipamentos sensíveis. Projetado para isolar circuitos e prevenir a passagem de corrente entre eles, ele oferece segurança e estabilidade em diversas aplicações.</p>
                             <a href="<?= $url ?>portfolio-item/transformadores-isoladores/">SAIBA MAIS</a>
                         </div>
@@ -208,7 +208,7 @@ $borg->cssCompress(array(
                         </div>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <img class="img-responsive" src="<?php $url ?>imagens/main/home/transformadores.webp" alt="transformadores elétricos">
+                        <img class="img-responsive" src="<?php $url ?>imagens/main/home/transformadores.webp" alt="transformadores elétricos" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -235,7 +235,7 @@ $borg->cssCompress(array(
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                        <img class="img-responsive" src="<?php $url ?>imagens/main/home/backdrop_team.webp" alt="transformadores elétricos">
+                        <img class="img-responsive" src="<?php $url ?>imagens/main/home/backdrop_team.webp" alt="transformadores elétricos" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -408,7 +408,7 @@ $borg->cssCompress(array(
                                             <a href="<?= $url ?>blog/<?= $slugPost ?>">
                                                 <img class="img-responsive"
                                                     src="<?= $url ?>imagens/main/blog/<?= $post['imagem'] ?>"
-                                                    alt="<?= htmlspecialchars($post['titulo']) ?>" loading="lazy" />
+                                                    alt="<?= htmlspecialchars($post['titulo']) ?>" loading="lazy">
                                             </a>
                                             <a href="<?= $url ?>blog/<?= $slugPost ?>">
                                                 <h2><?= $post['titulo'] ?></h2>
@@ -460,22 +460,22 @@ $borg->cssCompress(array(
                     <div class="col-lg-12 col-md-12">
                         <div class="box-clientes">
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-1.webp" alt="">
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-1.webp" alt="" loading="lazy" >
                             </div>
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-2.webp" alt="">
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-2.webp" alt="" loading="lazy" >
                             </div>
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-3.webp" alt="">
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-3.webp" alt="" loading="lazy" >
                             </div>
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-4.webp" alt="">
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-4.webp" alt="" loading="lazy" >
                             </div>
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-5.webp" alt="">
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-5.webp" alt="" loading="lazy" >
                             </div>
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-6.webp" alt="">
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-6.webp" alt="" loading="lazy" >
                             </div>
                         </div>
                     </div>

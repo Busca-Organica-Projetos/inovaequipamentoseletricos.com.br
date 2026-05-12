@@ -148,7 +148,7 @@ $borg->cssCompress(array(
                                             <img
                                                 src="<?php echo $url; ?>imagens/main/quem-somos/<?= $item['imagem'] ?>"
                                                 alt="<?= htmlspecialchars($item['titulo']) ?>"
-                                                loading="lazy" />
+                                                loading="lazy">
                                             <p class="bv-carrossel__titulo"><?= htmlspecialchars($item['titulo']) ?></p>
                                         </div>
                                     <?php endforeach; ?>
