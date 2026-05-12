@@ -15,7 +15,7 @@
             <div class="menu">
                 <ul class="menu-list gap-10">
                     <li class="<?php echo $canonical ==  $url ? 'pagina-focus':'';?>"><a href="<?php echo $url; ?>" title="Página inicial">Home</a></li>
-                    <li class="<?php echo $canonical ==  $url.'quem-somos' ? 'pagina-focus':'';?>"><a href="<?php echo $url; ?>quem-somos.php" title="Quem Somos">Quem Somos</a></li>
+                    <li class="<?php echo $canonical ==  $url.'quem-somos' ? 'pagina-focus':'';?>"><a href="<?php echo $url; ?>quem-somos" title="Quem Somos">Quem Somos</a></li>
                     <li class="liprod">
                         <a href="<?php echo $url; ?>loja" title="Loja">Loja <i class="fa-solid fa-angle-right info"></i></a>
                         <ul class="sub-menu">
