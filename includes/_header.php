@@ -17,7 +17,7 @@
                     <li class="<?php echo $canonical ==  $url ? 'pagina-focus':'';?>"><a href="<?php echo $url; ?>" title="Página inicial">Home</a></li>
                     <li class="<?php echo $canonical ==  $url.'quem-somos' ? 'pagina-focus':'';?>"><a href="<?php echo $url; ?>quem-somos.php" title="Quem Somos">Quem Somos</a></li>
                     <li class="liprod">
-                        <a href="<?php echo $url; ?>loja.php" title="Loja">Loja <i class="fa-solid fa-angle-right info"></i></a>
+                        <a href="<?php echo $url; ?>loja" title="Loja">Loja <i class="fa-solid fa-angle-right info"></i></a>
                         <ul class="sub-menu">
                             <li><a href="<?php echo $url; ?>portfolio-item/transformadores-a-oleo" title="transformadores á óleo">TRANSFORMADORES Á ÓLEO</a></li>
                             <li><a href="<?php echo $url; ?>portfolio-item/transformadores-pedestal" title="transformadores pedestal">TRANFORMADORES PEDESTAL</a></li>
@@ -27,7 +27,7 @@
                         </ul>
                     </li>
                     <li class="liprod <?php echo $canonical ==  $url.'locacao' ? 'pagina-focus':'';?>">
-                        <a href="<?php echo $url; ?>locacao.php" title="Locação">Locação<i class="fa-solid fa-angle-right info"></i></a>
+                        <a href="<?php echo $url; ?>locacao" title="Locação">Locação<i class="fa-solid fa-angle-right info"></i></a>
                         <ul class="sub-menu">
                             <li><a href="<?php echo $url; ?>portfolio-item/locacao-transformadores-a-oleo" title="locacao-transformadores">LOCAÇÃO DE TRANSFORMADORES Á ÓLEO</a></li>
                             <li><a href="<?php echo $url; ?>portfolio-item/locacao-transformadores-pedestal" title="locacao-transformadores">LOCAÇÃO DE TRANFORMADORES PEDESTAL</a></li>

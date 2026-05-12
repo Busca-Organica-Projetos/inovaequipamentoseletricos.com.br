@@ -53,8 +53,8 @@ $borg->cssCompress(array(
                         <p><span style="color: var(--main);">Soluções Personalizadas:</span> Reconhecemos que cada projeto é único. Trabalhamos lado a lado com você para desenvolver soluções personalizadas que atendam exatamente às suas necessidades, independentemente do tamanho ou complexidade do projeto.</p>
 
                         <div class="botoes">
-                            <a class="button" href="<?= $url ?>loja.php"><i class="fa-solid fa-cart-shopping"></i>CONHEÇA NOSSOS PRODUTOS</a>
-                            <a class="button" href="<?= $url ?>orcamento.php"><i class="fa-solid fa-envelope"></i>FAÇA UM ORÇAMENTO</a>
+                            <a class="button" href="<?= $url ?>loja"><i class="fa-solid fa-cart-shopping"></i>CONHEÇA NOSSOS PRODUTOS</a>
+                            <a class="button" href="<?= $url ?>orcamento"><i class="fa-solid fa-envelope"></i>FAÇA UM ORÇAMENTO</a>
                         </div>
                     </div>
 
