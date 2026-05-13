@@ -1,7 +1,7 @@
 <?php
-$h1           = "Loja";
-$title         = "Loja";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Instalação e Desinstalação";
+$title       = "Instalação e Desinstalação";
+$description = "A Inova Equipamentos Elétricos realiza serviços de instalação e desinstalação de transformadores e equipamentos elétricos com segurança, agilidade e eficiência.";
 $keywords    = $title;
 
 include "includes/_configuracoes.php";

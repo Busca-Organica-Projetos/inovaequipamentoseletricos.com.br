@@ -1,7 +1,7 @@
 <?php
-$h1           = "Loja";
-$title         = "Loja";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Loja";
+$title       = "Loja";
+$description = "Conheça a loja da Inova Equipamentos Elétricos com soluções em transformadores, equipamentos elétricos, acessórios e produtos para aplicações industriais e comerciais.";
 $keywords    = $title;
 
 require_once 'includes/array-produtos.php';

@@ -1,6 +1,6 @@
 <?php
 $h1          = "Carrinho";
-$title       = "Carrinho – INOVA EQUIPAMENTOS ELÉTRICOS";
+$title       = "Carrinho";
 $description = "Veja os itens adicionados ao seu carrinho e finalize seu pedido.";
 $keywords    = "carrinho, inova equipamentos elétricos";
 

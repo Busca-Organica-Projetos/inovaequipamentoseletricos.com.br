@@ -1,7 +1,7 @@
 <?php
-$h1           = "LOCAÇÃO";
-$title         = "LOCAÇÃO";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Locação";
+$title       = "Locação";
+$description = "A Inova Equipamentos Elétricos oferece locação de transformadores e equipamentos elétricos com qualidade, segurança e suporte para aplicações industriais e comerciais.";
 $keywords    = $title;
 
 include "includes/_configuracoes.php";

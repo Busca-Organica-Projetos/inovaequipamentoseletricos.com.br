@@ -1,7 +1,7 @@
 <?php
-$h1           = "Loja";
-$title         = "Loja";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Orçamento";
+$title       = "Orçamento";
+$description = "Solicite um orçamento com a Inova Equipamentos Elétricos para transformadores, equipamentos elétricos, manutenção e soluções personalizadas para sua empresa.";
 $keywords    = $title;
 
 include "includes/_configuracoes.php";

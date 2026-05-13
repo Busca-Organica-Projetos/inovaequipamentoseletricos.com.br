@@ -1,7 +1,7 @@
 <?php
-$h1           = "Loja";
-$title         = "Loja";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Orçamento de Transformadores a Seco";
+$title       = "Orçamento de Transformadores a Seco";
+$description = "Solicite um orçamento de transformadores a seco com a Inova Equipamentos Elétricos. Soluções seguras, eficientes e indicadas para aplicações industriais e comerciais.";
 $keywords    = $title;
 
 include "includes/_configuracoes.php";

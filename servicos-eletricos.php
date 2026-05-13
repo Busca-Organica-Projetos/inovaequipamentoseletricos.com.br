@@ -1,7 +1,7 @@
 <?php
-$h1           = "Loja";
-$title         = "Loja";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Serviços Elétricos";
+$title       = "Serviços Elétricos";
+$description = "Conheça os serviços elétricos oferecidos pela Inova Equipamentos Elétricos, com soluções em manutenção, instalação, locação e suporte para sistemas elétricos industriais e comerciais.";
 $keywords    = $title;
 
 include "includes/_configuracoes.php";

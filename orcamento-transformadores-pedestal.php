@@ -1,7 +1,7 @@
 <?php
-$h1           = "Loja";
-$title         = "Loja";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Orçamento de Transformadores Pedestal";
+$title       = "Orçamento de Transformadores Pedestal";
+$description = "Solicite um orçamento de transformadores pedestal com a Inova Equipamentos Elétricos. Equipamentos seguros, eficientes e ideais para aplicações industriais e comerciais.";
 $keywords    = $title;
 
 include "includes/_configuracoes.php";

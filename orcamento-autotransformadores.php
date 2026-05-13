@@ -1,7 +1,7 @@
 <?php
-$h1           = "Loja";
-$title         = "Loja";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Orçamento de Autotransformadores";
+$title       = "Orçamento de Autotransformadores";
+$description = "Solicite um orçamento de autotransformadores com a Inova Equipamentos Elétricos. Soluções eficientes para adequação de tensão em aplicações industriais e comerciais.";
 $keywords    = $title;
 
 include "includes/_configuracoes.php";

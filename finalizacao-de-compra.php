@@ -1,6 +1,6 @@
 <?php
 $h1          = "Finalização de compra";
-$title       = "Finalização de compra – INOVA EQUIPAMENTOS ELÉTRICOS";
+$title       = "Finalização de compra";
 $description = "Finalize seu pedido informando os seus dados. O envio é feito direto pelo WhatsApp.";
 $keywords    = "finalização, checkout, pedido, inova equipamentos elétricos";
 

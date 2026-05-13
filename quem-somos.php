@@ -1,7 +1,7 @@
 <?php
-$h1           = "Quem Somos";
-$title         = "Quem Somos";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Quem Somos";
+$title       = "Quem Somos";
+$description = "Conheça a Inova Equipamentos Elétricos, empresa especializada em transformadores, equipamentos elétricos, manutenção e soluções completas para o setor de energia.";
 $keywords    = $title;
 
 include "includes/_configuracoes.php";

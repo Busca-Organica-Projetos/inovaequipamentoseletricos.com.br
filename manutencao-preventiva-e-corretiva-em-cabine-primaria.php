@@ -1,7 +1,7 @@
 <?php
-$h1           = "Manutencão Preventiva e Corretiva em Cabine Primária";
-$title         = "Manutencão Preventiva e Corretiva em Cabine Primária - Inova Equipamentos Elétricos";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Manutenção Preventiva e Corretiva em Cabine Primária";
+$title       = "Manutenção Preventiva e Corretiva em Cabine Primária";
+$description = "Realize manutenção preventiva e corretiva em cabine primária com a Inova Equipamentos Elétricos. Serviços especializados para segurança, desempenho e confiabilidade elétrica.";
 $keywords    = $title;
 
 include "includes/_configuracoes.php";

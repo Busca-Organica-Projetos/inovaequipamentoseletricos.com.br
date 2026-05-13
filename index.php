@@ -460,22 +460,22 @@ $borg->cssCompress(array(
                     <div class="col-lg-12 col-md-12">
                         <div class="box-clientes">
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-1.webp" alt="" loading="lazy" >
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-1.webp" alt="Petrobras" loading="lazy" >
                             </div>
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-2.webp" alt="" loading="lazy" >
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-2.webp" alt="Construtoras Entre Rios" loading="lazy" >
                             </div>
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-3.webp" alt="" loading="lazy" >
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-3.webp" alt="Vertical Parts" loading="lazy" >
                             </div>
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-4.webp" alt="" loading="lazy" >
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-4.webp" alt="RMB Soluções Industriais" loading="lazy" >
                             </div>
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-5.webp" alt="" loading="lazy" >
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-5.webp" alt="Olivia Azul" loading="lazy" >
                             </div>
                             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-6.webp" alt="" loading="lazy" >
+                                <img class="img-responsive" src="<?php $url ?>imagens/main/home/clientes/cliente-6.webp" alt="Frigosaj" loading="lazy" >
                             </div>
                         </div>
                     </div>

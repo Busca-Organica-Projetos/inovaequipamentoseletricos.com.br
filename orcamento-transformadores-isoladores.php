@@ -1,7 +1,7 @@
 <?php
-$h1           = "Loja";
-$title         = "Loja";
-$description = ""; // Manter entre 130 a 160 caracteres
+$h1          = "Orçamento de Transformadores Isoladores";
+$title       = "Orçamento de Transformadores Isoladores";
+$description = "Solicite um orçamento de transformadores isoladores com a Inova Equipamentos Elétricos. Equipamentos desenvolvidos para proteção, estabilidade e eficiência em sistemas elétricos.";
 $keywords    = $title;
 
 include "includes/_configuracoes.php";
