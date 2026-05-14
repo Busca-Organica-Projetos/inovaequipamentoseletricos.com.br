@@ -62,28 +62,28 @@ $estados = [
 
                             <div class="row-2col">
                                 <div class="form-group">
-                                    <label>Nome <span class="req">*</span></label>
+                                    <label for="nome">Nome <span class="req">*</span></label>
                                     <input type="text" name="nome" required>
                                 </div>
                                 <div class="form-group">
-                                    <label>Sobrenome <span class="req">*</span></label>
+                                    <label for="sobrenome">Sobrenome <span class="req">*</span></label>
                                     <input type="text" name="sobrenome" required>
                                 </div>
                             </div>
 
                             <div class="form-group">
-                                <label>Nome da empresa (opcional)</label>
+                                <label for="empresa">Nome da empresa (opcional)</label>
                                 <input type="text" name="empresa">
                             </div>
 
                             <div class="form-group">
-                                <label>País <span class="req">*</span></label>
+                                <label for="pais-fixo">País <span class="req">*</span></label>
                                 <div class="pais-fixo">Brasil</div>
                                 <input type="hidden" name="pais" value="Brasil">
                             </div>
 
                             <div class="form-group">
-                                <label>Endereço <span class="req">*</span></label>
+                                <label for="endereco">Endereço <span class="req">*</span></label>
                                 <input type="text" name="endereco" placeholder="Nome da rua e número da casa" required>
                             </div>
 
@@ -92,12 +92,12 @@ $estados = [
                             </div>
 
                             <div class="form-group">
-                                <label>Cidade <span class="req">*</span></label>
+                                <label for="cidade">Cidade <span class="req">*</span></label>
                                 <input type="text" name="cidade" required>
                             </div>
 
                             <div class="form-group">
-                                <label>Estado <span class="req">*</span></label>
+                                <label for="estado">Estado <span class="req">*</span></label>
                                 <select name="estado" required>
                                     <?php foreach ($estados as $sigla => $nome): ?>
                                         <option value="<?= $nome ?>" <?= $sigla === 'SP' ? 'selected' : '' ?>><?= $nome ?></option>
@@ -106,17 +106,17 @@ $estados = [
                             </div>
 
                             <div class="form-group">
-                                <label>CEP <span class="req">*</span></label>
+                                <label for="cep">CEP <span class="req">*</span></label>
                                 <input type="text" name="cep" required maxlength="9" placeholder="00000-000">
                             </div>
 
                             <div class="form-group">
-                                <label>Telefone <span class="req">*</span></label>
+                                <label for="telefone">Telefone <span class="req">*</span></label>
                                 <input type="tel" name="telefone" required placeholder="(11) 99999-9999">
                             </div>
 
                             <div class="form-group">
-                                <label>Endereço de e-mail <span class="req">*</span></label>
+                                <label for="email">Endereço de e-mail <span class="req">*</span></label>
                                 <input type="email" name="email" required>
                             </div>
 
@@ -128,7 +128,7 @@ $estados = [
                             <h3>Informação adicional</h3>
 
                             <div class="form-group">
-                                <label>Observações do pedido (opcional)</label>
+                                <label for="observacoes">Observações do pedido (opcional)</label>
                                 <textarea name="observacoes" rows="6" placeholder="Observações sobre seu pedido, ex: notas especiais de entrega."></textarea>
                             </div>
 
