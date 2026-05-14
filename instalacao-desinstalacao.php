@@ -1,8 +1,8 @@
 <?php
 $h1          = "Instalação e Desinstalação";
-$title       = "Instalação e Desinstalação";
-$description = "A Inova Equipamentos Elétricos realiza serviços de instalação e desinstalação de transformadores e equipamentos elétricos com segurança, agilidade e eficiência.";
-$keywords    = $title;
+$title       = "Instalação e Desinstalação de Transformadores";
+$description = "Serviços técnicos de instalação e desinstalação de transformadores a óleo, a seco e pedestal pela INOVA. Execução segura, ágil e em conformidade com normas ABNT.";
+$keywords    = "instalação de transformadores, desinstalação transformador, montagem transformador, serviço técnico, transformador a óleo, a seco, pedestal";
 
 include "includes/_configuracoes.php";
 $borg->cssCompress(array(

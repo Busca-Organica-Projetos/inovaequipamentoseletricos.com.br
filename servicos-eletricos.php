@@ -1,8 +1,8 @@
 <?php
 $h1          = "Serviços Elétricos";
-$title       = "Serviços Elétricos";
-$description = "Conheça os serviços elétricos oferecidos pela Inova Equipamentos Elétricos, com soluções em manutenção, instalação, locação e suporte para sistemas elétricos industriais e comerciais.";
-$keywords    = $title;
+$title       = "Serviços Elétricos – Manutenção, Instalação e Locação";
+$description = "Soluções completas em serviços elétricos: manutenção preventiva e corretiva, instalação e desinstalação de transformadores, locação e suporte técnico especializado.";
+$keywords    = "serviços elétricos, manutenção transformadores, instalação transformador, desinstalação, suporte técnico, locação, cabine primária, inova";
 
 include "includes/_configuracoes.php";
 $borg->cssCompress(array(

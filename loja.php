@@ -1,8 +1,8 @@
 <?php
 $h1          = "Loja";
-$title       = "Loja";
-$description = "Conheça a loja da Inova Equipamentos Elétricos com soluções em transformadores, equipamentos elétricos, acessórios e produtos para aplicações industriais e comerciais.";
-$keywords    = $title;
+$title       = "Loja – Transformadores e Equipamentos Elétricos";
+$description = "Loja online de transformadores a óleo, a seco, pedestal, autotransformadores e isoladores. Compre direto da INOVA equipamentos elétricos com suporte técnico especializado.";
+$keywords    = "loja transformadores, comprar transformador, transformador a óleo, transformador a seco, autotransformador, isolador, pedestal, equipamentos elétricos";
 
 require_once 'includes/array-produtos.php';
 

@@ -1,8 +1,8 @@
 <?php
 $h1          = "Locação";
-$title       = "Locação";
-$description = "A Inova Equipamentos Elétricos oferece locação de transformadores e equipamentos elétricos com qualidade, segurança e suporte para aplicações industriais e comerciais.";
-$keywords    = $title;
+$title       = "Locação de Transformadores e Equipamentos Elétricos";
+$description = "Aluguel de transformadores a óleo, a seco, pedestal, autotransformadores e isoladores. Locação INOVA com suporte técnico, qualidade e segurança para indústria e comércio.";
+$keywords    = "locação de transformadores, aluguel transformador, locação equipamentos elétricos, aluguel a óleo, aluguel a seco, aluguel pedestal, autotransformador, isolador";
 
 include "includes/_configuracoes.php";
 $borg->cssCompress(array(

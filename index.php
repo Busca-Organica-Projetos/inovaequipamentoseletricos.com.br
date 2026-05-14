@@ -1,10 +1,10 @@
 <?php
 require_once "includes/array-blogs.php";
 
-$h1           = "Home";
-$title         = "Home";
-$description = ""; // Manter entre 130 a 160 caracteres
-$keywords    = $title;
+$h1          = "INOVA Equipamentos Elétricos";
+$title       = "INOVA Equipamentos Elétricos – Transformadores e Soluções em Energia";
+$description = "Representação e venda de transformadores a óleo, a seco, pedestal, autotransformadores e isoladores. Soluções completas em equipamentos elétricos para indústria e comércio."; // Manter entre 130 a 160 caracteres
+$keywords    = "transformadores, transformador a óleo, transformador a seco, transformador pedestal, autotransformador, transformador isolador, equipamentos elétricos, inova";
 
 // ─── Mapa nome-da-categoria  ->  slug (para gerar links das categorias) ─────
 $mapaCategoria = [
@@ -425,9 +425,7 @@ $borg->cssCompress(array(
                                             </p>
                                             <p class="paragrafo"><?= $post['excerpt'] ?></p>
                                             <div>
-                                                <span class="data">
-                                                    <p><?= $post['data'] ?></p>
-                                                </span>
+                                                <span class="data"><?= $post['data'] ?></span>
                                             </div>
                                         </div>
                                     </div>

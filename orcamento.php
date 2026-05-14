@@ -1,8 +1,8 @@
 <?php
 $h1          = "Orçamento";
-$title       = "Orçamento";
-$description = "Solicite um orçamento com a Inova Equipamentos Elétricos para transformadores, equipamentos elétricos, manutenção e soluções personalizadas para sua empresa.";
-$keywords    = $title;
+$title       = "Solicitar Orçamento";
+$description = "Solicite um orçamento com a INOVA para transformadores, equipamentos elétricos, manutenção e soluções personalizadas. Resposta rápida e atendimento técnico especializado.";
+$keywords    = "orçamento, pedir orçamento, cotação transformador, preço transformador, inova equipamentos elétricos";
 
 include "includes/_configuracoes.php";
 $borg->cssCompress(array(

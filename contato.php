@@ -1,9 +1,9 @@
 <?php
 
+    $h1          = "Contato";
     $title       = "Contato";
-    $description = "Entre em contato conosco e envie sua mensagem ou solicitação de orçamento, nossa equipe entrará em contato assim que possível para atendê-lo."; // Manter entre 130 a 160 caracteres
-    $h1          = $title;
-    $keywords    = $title;
+    $description = "Fale com a INOVA Equipamentos Elétricos. Envie sua mensagem ou solicitação de orçamento e nossa equipe técnica retornará rapidamente para atender você."; // Manter entre 130 a 160 caracteres
+    $keywords    = "contato inova, fale conosco, orçamento transformadores, atendimento, telefone whatsapp, e-mail inova";
 
     include "includes/_configuracoes.php";
     

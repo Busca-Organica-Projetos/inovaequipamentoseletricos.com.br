@@ -1,8 +1,8 @@
 <?php
 $h1          = "Quem Somos";
 $title       = "Quem Somos";
-$description = "Conheça a Inova Equipamentos Elétricos, empresa especializada em transformadores, equipamentos elétricos, manutenção e soluções completas para o setor de energia.";
-$keywords    = $title;
+$description = "Conheça a INOVA Equipamentos Elétricos: empresa especializada em transformadores, manutenção, locação e soluções completas para o setor de energia no Brasil.";
+$keywords    = "quem somos, sobre a inova, empresa transformadores, história inova equipamentos elétricos, missão visão valores";
 
 include "includes/_configuracoes.php";
 $borg->cssCompress(array(

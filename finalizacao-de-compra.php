@@ -1,8 +1,8 @@
 <?php
-$h1          = "Finalização de compra";
-$title       = "Finalização de compra";
-$description = "Finalize seu pedido informando os seus dados. O envio é feito direto pelo WhatsApp.";
-$keywords    = "finalização, checkout, pedido, inova equipamentos elétricos";
+$h1          = "Finalização de Compra";
+$title       = "Finalização de Compra";
+$description = "Preencha seus dados de cobrança e envie seu pedido de transformadores e equipamentos elétricos direto pelo WhatsApp da INOVA. Atendimento rápido e personalizado.";
+$keywords    = "finalização de compra, checkout, pedido, orçamento whatsapp, comprar transformador, inova";
 
 include "includes/_configuracoes.php";
 $borg->cssCompress(array(

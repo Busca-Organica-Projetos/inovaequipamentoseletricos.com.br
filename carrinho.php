@@ -1,8 +1,8 @@
 <?php
 $h1          = "Carrinho";
-$title       = "Carrinho";
-$description = "Veja os itens adicionados ao seu carrinho e finalize seu pedido.";
-$keywords    = "carrinho, inova equipamentos elétricos";
+$title       = "Carrinho de Compras";
+$description = "Revise os transformadores e equipamentos selecionados no seu carrinho de compras da INOVA e siga para finalizar o pedido com nossa equipe.";
+$keywords    = "carrinho, carrinho de compras, pedido inova, transformadores, comprar online";
 
 include "includes/_configuracoes.php";
 $borg->cssCompress(array(

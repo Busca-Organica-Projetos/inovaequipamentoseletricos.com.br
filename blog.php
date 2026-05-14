@@ -1,8 +1,8 @@
 <?php
-$h1          = "Blog – Inova Equipamentos Elétricos";
-$title       = "Blog – Inova Equipamentos Elétricos";
-$description = "Blog da Inova Equipamentos Elétricos: artigos sobre transformadores, energia, manutenção e tecnologias do setor elétrico."; // Manter entre 130 a 160 caracteres
-$keywords    = $title;
+$h1          = "Blog";
+$title       = "Blog";
+$description = "Artigos sobre transformadores, manutenção elétrica, energia solar, cabines primárias e tendências do setor de equipamentos elétricos. Confira no blog da INOVA."; // Manter entre 130 a 160 caracteres
+$keywords    = "blog inova, transformadores, energia, manutenção elétrica, artigos setor elétrico, energia solar, cabine primária";
 
 require_once "includes/array-blogs.php";
 include "includes/_configuracoes.php";

@@ -1,8 +1,8 @@
 <?php
-$h1          = "Manutenção Preventiva e Corretiva em Cabine Primária";
+$h1          = "Manutenção em Cabine Primária";
 $title       = "Manutenção Preventiva e Corretiva em Cabine Primária";
-$description = "Realize manutenção preventiva e corretiva em cabine primária com a Inova Equipamentos Elétricos. Serviços especializados para segurança, desempenho e confiabilidade elétrica.";
-$keywords    = $title;
+$description = "Manutenção preventiva e corretiva de cabines primárias pela INOVA. Inspeção, ensaios, limpeza e reparos para segurança, desempenho e confiabilidade da sua subestação.";
+$keywords    = "manutenção cabine primária, manutenção preventiva, manutenção corretiva, subestação, ensaios elétricos, transformador, inspeção";
 
 include "includes/_configuracoes.php";
 $borg->cssCompress(array(
