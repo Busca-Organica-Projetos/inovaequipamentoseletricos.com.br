@@ -70,7 +70,7 @@ $borg->cssCompress(array(
 
                                 <div class="form-row">
                                     <div class="form-group">
-                                        <select name="Estado" class="form-control">
+                                        <select name="Estado" class="form-control" aria-label="Estado">
                                             <option value="" disabled selected>Estado:</option>
                                             <option>AC</option>
                                             <option>AL</option>
@@ -102,7 +102,7 @@ $borg->cssCompress(array(
                                         </select>
                                     </div>
                                     <div class="form-group">
-                                        <select name="Cargo" class="form-control">
+                                        <select name="Cargo" class="form-control" aria-label="Cargo">
                                             <option value="" disabled selected>Cargo:</option>
                                             <option>Proprietário</option>
                                             <option>Diretor</option>

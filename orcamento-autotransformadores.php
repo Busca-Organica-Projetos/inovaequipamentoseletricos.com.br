@@ -55,7 +55,7 @@ $borg->cssCompress(array(
 
                                 <div class="form-row">
                                     <div class="form-group">
-                                        <select name="Estado" class="form-control">
+                                        <select name="Estado" class="form-control" aria-label="Estado">
                                             <option value="" disabled selected>Estado:</option>
                                             <option>AC</option>
                                             <option>AL</option>
@@ -87,7 +87,7 @@ $borg->cssCompress(array(
                                         </select>
                                     </div>
                                     <div class="form-group">
-                                        <select name="Cargo" class="form-control">
+                                        <select name="Cargo" class="form-control" aria-label="Cargo">
                                             <option value="" disabled selected>Cargo:</option>
                                             <option>Instalador</option>
                                             <option>Eletricista</option>
@@ -100,7 +100,7 @@ $borg->cssCompress(array(
 
                                 <div class="form-row">
                                     <div class="form-group">
-                                        <select name="Regime de Tributação" class="form-control">
+                                        <select name="Regime de Tributação" class="form-control" aria-label="Regime de Tributação">
                                             <option value="" disabled selected>Regime de Tributação:</option>
                                             <option>Simples Nacional</option>
                                             <option>Lucro Presumido</option>
@@ -109,7 +109,7 @@ $borg->cssCompress(array(
                                         </select>
                                     </div>
                                     <div class="form-group">
-                                        <select name="Destino da Mercadoria" class="form-control">
+                                        <select name="Destino da Mercadoria" class="form-control" aria-label="Destino da Mercadoria">
                                             <option value="" disabled selected>O destino da mercadoria é para:</option>
                                             <option>Comercialização</option>
                                             <option>Consumidor final (uso - consumo ou ativo imobilizado)</option>
@@ -122,7 +122,7 @@ $borg->cssCompress(array(
 
                                 <div class="form-row form-row--full">
                                     <div class="form-group">
-                                        <select name="Potência" class="form-control">
+                                        <select name="Potência" class="form-control" aria-label="Potência">
                                             <option value="" disabled selected>Potência:</option>
                                             <option>15KVA</option>
                                             <option>30KVA</option>
@@ -146,7 +146,7 @@ $borg->cssCompress(array(
 
                                 <div class="form-row">
                                     <div class="form-group">
-                                        <select name="Tensão Primária" class="form-control">
+                                        <select name="Tensão Primária" class="form-control" aria-label="Tensão Primária">
                                             <option value="" disabled selected>Tensão Primária:</option>
                                             <option>13.800V</option>
                                             <option>24.200V</option>
@@ -155,7 +155,7 @@ $borg->cssCompress(array(
                                         </select>
                                     </div>
                                     <div class="form-group">
-                                        <select name="Tensão Secundária" class="form-control">
+                                        <select name="Tensão Secundária" class="form-control" aria-label="Tensão Secundária">
                                             <option value="" disabled selected>Tensão Secundária:</option>
                                             <option>220/127V</option>
                                             <option>380/220V</option>
