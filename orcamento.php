@@ -17,6 +17,7 @@ $borg->cssCompress(array(
 
 <body>
     <?php include "includes/_header.php"; ?>
+    <main class="main-content">
     <section id="orcamento">
         <div class="container">
             <div class="flex">
@@ -171,10 +172,22 @@ $borg->cssCompress(array(
                     </div>
                 </div>
             </div>
-        </div>
+            </div>
         </div>
     </section>
     </main>
-    <script src="<?php echo $url; ?>assets/js/produto.js"></script>
-    <script>
-        document.querySelec
+    <?php
+    $borg->js_custom = array(
+        "tools/scroll",
+        "tools/bootstrap.min",
+        "tools/jquery.validate.min",
+        "tools/jquery.mask.min",
+        "tools/jquery.fancybox",
+        "jquery.buscaorganica.contact"
+    );
+    ?>
+    <?php include "includes/_footer.php"; ?>
+
+</body>
+
+</html>

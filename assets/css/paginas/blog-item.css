@@ -36,6 +36,9 @@
 /* ──────────────────────────────────────────────────────────────
    CONTEÚDO DO POST
    ────────────────────────────────────────────────────────────── */
+.wd-100 {
+    width: 100%;
+}
 
 #inicio,
 #content {
@@ -91,6 +94,8 @@
     color: #333;
     margin: 0 0 16px;
     text-align: justify;
+    overflow-wrap: anywhere;
+    word-break: break-word;
 }
 
 #content h2 {
@@ -251,4 +256,53 @@
 
 .aside-ultimos a:hover {
     color: var(--main);
+}
+
+/* ──────────────────────────────────────────────────────────────
+   RESPONSIVO — TELAS ESTREITAS (≤ 580px e ≤ 430px)
+   ────────────────────────────────────────────────────────────── */
+@media (max-width: 580px) {
+    .blog-item-wrapper {
+        padding: 24px 12px 60px;
+        gap: 20px;
+    }
+    #inicio,
+    #content {
+        padding: 22px 16px;
+    }
+    #inicio h2 {
+        font-size: 1.35rem;
+    }
+    #content h2 {
+        font-size: 1.15rem;
+    }
+    #content h3 {
+        font-size: 1rem;
+    }
+    #content p {
+        font-size: 0.95rem;
+        text-align: left;
+        line-height: 1.6;
+    }
+    .aside-box {
+        padding: 18px 16px;
+    }
+}
+
+@media (max-width: 430px) {
+    .blog-item-wrapper {
+        padding: 18px 8px 50px;
+    }
+    #inicio,
+    #content {
+        padding: 18px 12px;
+        border-radius: 6px;
+    }
+    #inicio h2 {
+        font-size: 1.2rem;
+    }
+    #content p {
+        font-size: 0.9rem;
+        line-height: 1.55;
+    }
 }

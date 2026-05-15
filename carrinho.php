@@ -65,9 +65,9 @@ $borg->cssCompress(array(
                             <span>Itens no carrinho</span>
                             <span id="resumoQtd">0</span>
                         </div>
-                        <button type="button" class="btn-finalizar" id="btnFinalizar">
+                        <a data-click-track="finalizar pedido - carrinho - carrinho" class="button" id="btnFinalizar">
                             Finalizar pedido
-                        </button>
+                        </a>
                         <a href="<?= $url ?>loja" class="btn-continuar-comprando">
                             ← Continuar comprando
                         </a>

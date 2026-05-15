@@ -28,7 +28,7 @@ var jsBuscaorganica = {
                 
                 if (alt.length === 0 && achouImgSemAlt == false) {
                     errors.push("Imagem sem alt.");
-                    achouImgSemAlt = true
+                    achouImgSemAlt = true;
                 }
 
                 if (achouImgJpgPng == true && achouImgSemAlt == true) {

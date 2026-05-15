@@ -156,7 +156,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -326,7 +326,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -497,7 +497,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -668,7 +668,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -839,7 +839,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -1010,7 +1010,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -1181,7 +1181,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -1352,7 +1352,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -1523,7 +1523,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -1694,7 +1694,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -1852,7 +1852,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -2010,7 +2010,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -2168,7 +2168,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -2326,7 +2326,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -2484,7 +2484,7 @@ $produtos = [
                     <p>A acessibilidade eficiente às partes ativas do transformador simplifica a realização de manutenções necessárias, contribuindo significativamente para a extensão de sua vida útil de forma eficaz.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -2640,7 +2640,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -2796,7 +2796,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -2953,7 +2953,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -3109,7 +3109,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -3265,7 +3265,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -3421,7 +3421,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -3577,7 +3577,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -3736,7 +3736,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -3892,7 +3892,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -4051,7 +4051,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -4206,7 +4206,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -4362,7 +4362,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -4519,7 +4519,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -4676,7 +4676,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -4833,7 +4833,7 @@ $produtos = [
                     <p><strong>Adaptável:</strong> A potência pode ser aumentada em até 40% com a simples instalação de ventilação forçada, facilidade no posicionamento de terminais, menor área requerida para instalação.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -5008,7 +5008,7 @@ $produtos = [
                     <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -5160,7 +5160,7 @@ $produtos = [
                     <p>Alta resistência às intempéries. Fácil manutenção em campo. Projetado para operação ao tempo sem necessidade de estruturas de proteção adicionais. Design compacto para instalação em postes ou pedestais.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -5311,7 +5311,7 @@ $produtos = [
                     <p>Alta resistência às intempéries. Fácil manutenção em campo. Projetado para operação ao tempo sem necessidade de estruturas de proteção adicionais. Design compacto para instalação em postes ou pedestais.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -5468,7 +5468,7 @@ $produtos = [
                     <p>Alta resistência às intempéries. Fácil manutenção em campo. Projetado para operação ao tempo sem necessidade de estruturas de proteção adicionais. Design compacto para instalação em postes ou pedestais.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -5619,7 +5619,7 @@ $produtos = [
                         <p>Alta resistência às intempéries. Fácil manutenção em campo. Projetado para operação ao tempo sem necessidade de estruturas de proteção adicionais. Design compacto para instalação em postes ou pedestais.</p>
 
                         <div class="mt-4">
-                            <a href="#" class="button">Faça um Orçamento</a>
+                            <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                         </div>
                     </div>
 
@@ -5784,7 +5784,7 @@ $produtos = [
                         <p><strong>Redução de Custos:</strong> A facilidade de manutenção e a durabilidade do transformador pedestal podem resultar em custos operacionais mais baixos ao longo do tempo.</p>
                         <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
                         <div class="mt-4">
-                            <a href="#" class="button">Faça um Orçamento</a>
+                            <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                         </div>
                     </div>
 
@@ -5949,7 +5949,7 @@ $produtos = [
                         <p><strong>Redução de Custos:</strong> A facilidade de manutenção e a durabilidade do transformador pedestal podem resultar em custos operacionais mais baixos ao longo do tempo.</p>
                         <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
                         <div class="mt-4">
-                            <a href="#" class="button">Faça um Orçamento</a>
+                            <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                         </div>
                     </div>
 
@@ -6114,7 +6114,7 @@ $produtos = [
                         <p><strong>Redução de Custos:</strong> A facilidade de manutenção e a durabilidade do transformador pedestal podem resultar em custos operacionais mais baixos ao longo do tempo.</p>
                         <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
                         <div class="mt-4">
-                            <a href="#" class="button">Faça um Orçamento</a>
+                            <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                         </div>
                     </div>
 
@@ -6279,7 +6279,7 @@ $produtos = [
                         <p><strong>Redução de Custos:</strong> A facilidade de manutenção e a durabilidade do transformador pedestal podem resultar em custos operacionais mais baixos ao longo do tempo.</p>
                         <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
                         <div class="mt-4">
-                            <a href="#" class="button">Faça um Orçamento</a>
+                            <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                         </div>
                     </div>
 
@@ -6444,7 +6444,7 @@ $produtos = [
                         <p><strong>Redução de Custos:</strong> A facilidade de manutenção e a durabilidade do transformador pedestal podem resultar em custos operacionais mais baixos ao longo do tempo.</p>
                         <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
                         <div class="mt-4">
-                            <a href="#" class="button">Faça um Orçamento</a>
+                            <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                         </div>
                     </div>
 
@@ -6609,7 +6609,7 @@ $produtos = [
                         <p><strong>Redução de Custos:</strong> A facilidade de manutenção e a durabilidade do transformador pedestal podem resultar em custos operacionais mais baixos ao longo do tempo.</p>
                         <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
                         <div class="mt-4">
-                            <a href="#" class="button">Faça um Orçamento</a>
+                            <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                         </div>
                     </div>
 
@@ -6774,7 +6774,7 @@ $produtos = [
                         <p><strong>Redução de Custos:</strong> A facilidade de manutenção e a durabilidade do transformador pedestal podem resultar em custos operacionais mais baixos ao longo do tempo.</p>
                         <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
                         <div class="mt-4">
-                            <a href="#" class="button">Faça um Orçamento</a>
+                            <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                         </div>
                     </div>
 
@@ -6948,7 +6948,7 @@ $produtos = [
                     <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -7099,7 +7099,7 @@ $produtos = [
                     <p>Alta resistência às intempéries. Fácil manutenção em campo. Projetado para operação ao tempo sem necessidade de estruturas de proteção adicionais. Design compacto para instalação em postes ou pedestais.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -7241,7 +7241,7 @@ $produtos = [
                     <p>Possuem a possibilidade de se adaptar para o sistema de ventilação forçada, aumentando sua capacidade nominal em até 40%. Não liberam gases tóxicos, não agridem a natureza. São fabricados com materiais adequados para suportarem altas temperaturas. Possuem baixo nível de ruído, são isentos de manutenção. Transformadores que não apresentam risco de explosão, assim não apresentando perigo em lugares onde tem contínuo fluxo de pessoas.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -7382,7 +7382,7 @@ $produtos = [
                     <p>O investimento neste equipamento é extremamente baixo, fazendo valer a pena a instalação de um equipamento em projetos de energia solar.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -7521,7 +7521,7 @@ $produtos = [
                     <p>Indicado para alimentação de máquinas de corte a laser, equipamentos médicos e laboratoriais, ou onde o isolamento galvânico entre rede e carga é mandatório.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -7661,7 +7661,7 @@ $produtos = [
                     <p>Ideal para quem busca eliminar ruídos elétricos e garantir que a rede de entrada não tenha contato direto com a carga, protegendo componentes sensíveis contra transientes.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -7802,7 +7802,7 @@ $produtos = [
                     <p>O isolamento galvânico total entre a entrada e a saída garante que surtos de tensão ou ruídos provenientes da rede não atinjam a carga, aumentando significativamente a vida útil de componentes eletrônicos sensíveis.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -7942,7 +7942,7 @@ $produtos = [
                     <p>Este transformador isolador é projetado para minimizar distorções harmônicas e garantir que o neutro da carga seja independente do neutro da concessionária, provendo uma instalação muito mais estável e segura.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -8082,7 +8082,7 @@ $produtos = [
                     <p>Sua alta capacidade o torna indispensável para grandes projetos fotovoltaicos e plantas industriais que não podem sofrer com paradas inesperadas causadas por má qualidade da energia.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -8222,7 +8222,7 @@ $produtos = [
                     <p>Este equipamento possui excelente dissipação térmica e baixíssimo nível de ruído, sendo isento de manutenção preventiva constante. É a solução robusta para quem não pode comprometer a continuidade do serviço por falhas elétricas externas.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -8362,7 +8362,7 @@ $produtos = [
                     <p>Sua robustez permite suportar picos de partida de grandes motores e cargas não lineares. Além disso, o isolamento físico entre enrolamentos impede que descargas atmosféricas ou surtos de manobra atinjam diretamente a carga, servindo como uma barreira de segurança vital.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -8502,7 +8502,7 @@ $produtos = [
                     <p>Este modelo de 60KVA é construído para suportar regimes de carga contínuos. A tecnologia de isolamento a seco elimina o risco de vazamentos de óleo e explosões, tornando-o seguro para ambientes com circulação de pessoas e cumprindo normas rigorosas de segurança.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -8642,7 +8642,7 @@ $produtos = [
                     <p>Equipamento robusto com alta suportabilidade a sobrecargas momentâneas. O isolamento galvânico atua como um filtro para harmônicos, protegendo a rede e melhorando a qualidade da energia entregue aos equipamentos críticos.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -8782,7 +8782,7 @@ $produtos = [
                     <p>Possui alta resistência mecânica e excelente isolação térmica. Por ser um transformador a seco, oferece baixo risco de incêndio e é ecologicamente correto, sendo ideal para instalação em subestações abrigadas ou salas de máquinas sem ventilação forçada constante.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -8922,7 +8922,7 @@ $produtos = [
                     <p>Este transformador de alta potência é projetado para minimizar as perdas por efeito Joule e garantir uma eficiência energética superior. O isolamento a seco Classe F permite que o equipamento suporte condições térmicas rigorosas sem comprometer sua integridade, eliminando riscos de vazamento comuns em modelos a óleo.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -9062,7 +9062,7 @@ $produtos = [
                     <p>Com 125KVA de potência, este isolador minimiza o risco de queima de componentes eletrônicos sensíveis por transientes de rede. Sua construção a seco o torna seguro para ambientes internos, sem o risco de contaminação ou incêndio associado ao óleo.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -9202,7 +9202,7 @@ $produtos = [
                     <p>Sendo um transformador a seco, ele oferece segurança superior contra incêndios e facilita a manutenção. O isolamento galvânico é a chave para evitar a propagação de falhas elétricas, protegendo o investimento em eletrônicos de alta tecnologia.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -9342,7 +9342,7 @@ $produtos = [
                     <p>Este equipamento é projetado para operar em regime contínuo, apresentando alta durabilidade e baixas perdas térmicas. O isolamento galvânico protege o sistema contra harmônicos de rede, aumentando a vida útil dos equipamentos conectados e reduzindo custos com paradas não programadas.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -9482,7 +9482,7 @@ $produtos = [
                     <p>Dada a sua enorme capacidade, o modelo de 300KVA é projetado com foco total na estabilidade térmica. A tecnologia a seco elimina a necessidade de contenção de óleo, reduzindo custos de infraestrutura e riscos ambientais, enquanto o isolamento galvânico garante que distúrbios elétricos não se propaguem entre os circuitos.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -9622,7 +9622,7 @@ $produtos = [
                     <p>Com uma capacidade de 500KVA, este transformador é construído para operar sob condições de carga severas com alta eficiência térmica. O isolamento galvânico blinda o sistema contra transientes de rede, harmônicos e ruídos eletromagnéticos, protegendo o capital investido em tecnologia sensível.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -9762,7 +9762,7 @@ $produtos = [
                     <p>Com impressionantes 750KVA, este transformador a seco elimina os riscos ambientais e de incêndio de modelos a óleo. O isolamento galvânico entre os circuitos primário e secundário é vital para prevenir a propagação de falhas e garantir que equipamentos eletrônicos ultra-sensíveis operem sem a interferência de distúrbios da rede concessionária.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -9901,7 +9901,7 @@ $produtos = [
                     <p>Com 1000KVA de potência, este modelo a seco oferece uma alternativa segura e ecológica aos transformadores a óleo, eliminando riscos de vazamento e explosão. O isolamento galvânico protege a infraestrutura contra harmônicos de alta frequência e transientes de rede, maximizando a vida útil de todo o ecossistema elétrico conectado.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -10041,7 +10041,7 @@ $produtos = [
                     <p>Com 1500KVA de potência, este modelo a seco oferece uma alternativa segura e ecológica aos transformadores a óleo, eliminando riscos de vazamento e explosão. O isolamento galvânico protege a infraestrutura contra harmônicos de alta frequência e transientes de rede, maximizando a vida útil de todo o ecossistema elétrico conectado.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -10181,7 +10181,7 @@ $produtos = [
                     <p>Com 2000KVA de potência, este modelo a seco oferece uma alternativa segura e ecológica aos transformadores a óleo, eliminando riscos de vazamento e explosão. O isolamento galvânico protege a infraestrutura contra harmônicos de alta frequência e transientes de rede, maximizando a vida útil de todo o ecossistema elétrico conectado.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -10321,7 +10321,7 @@ $produtos = [
                     <p>Com 2500KVA de potência, este modelo a seco oferece uma alternativa segura e ecológica aos transformadores a óleo, eliminando riscos de vazamento e explosão. O isolamento galvânico protege a infraestrutura contra harmônicos de alta frequência e transientes de rede, maximizando a vida útil de todo o ecossistema elétrico conectado.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -10461,7 +10461,7 @@ $produtos = [
                     <p>Com 3000KVA de potência, este modelo a seco oferece uma alternativa segura e ecológica aos transformadores a óleo, eliminando riscos de vazamento e explosão. O isolamento galvânico protege a infraestrutura contra harmônicos de alta frequência e transientes de rede, maximizando a vida útil de todo o ecossistema elétrico conectado.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -10635,7 +10635,7 @@ $produtos = [
                     <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -10809,7 +10809,7 @@ $produtos = [
                     <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -10983,7 +10983,7 @@ $produtos = [
                     <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -11157,7 +11157,7 @@ $produtos = [
                     <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -11331,7 +11331,7 @@ $produtos = [
                     <p>Essas características tornam o transformador pedestal uma opção prática e versátil para distribuição de energia, especialmente em locais onde o espaço e a acessibilidade são importantes considerações.</p>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -11493,7 +11493,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -11653,7 +11653,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -11813,7 +11813,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -11973,7 +11973,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -12133,7 +12133,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -12293,7 +12293,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -12453,7 +12453,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -12613,7 +12613,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -12773,7 +12773,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -12933,7 +12933,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -13093,7 +13093,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -13253,7 +13253,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -13413,7 +13413,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -13573,7 +13573,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -13733,7 +13733,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -13893,7 +13893,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -14053,7 +14053,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -14213,7 +14213,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -14372,7 +14372,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -14531,7 +14531,7 @@ $produtos = [
                     </ul>
 
                     <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div>
                 </div>
 
@@ -14695,7 +14695,7 @@ $produtos = [
                     </ul>
 
                     <!-- <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div> -->
                 </div>
 
@@ -14860,7 +14860,7 @@ $produtos = [
                     </ul>
 
                     <!-- <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div> -->
                 </div>
 
@@ -15024,7 +15024,7 @@ $produtos = [
                     </ul>
 
                     <!-- <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div> -->
                 </div>
 
@@ -15189,7 +15189,7 @@ $produtos = [
                     </ul>
 
                     <!-- <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div> -->
                 </div>
 
@@ -15354,7 +15354,7 @@ $produtos = [
                     </ul>
 
                     <!-- <div class="mt-4">
-                        <a href="#" class="button">Faça um Orçamento</a>
+                        <a href="'. $url .'orcamento" class="button">Faça um Orçamento</a>
                     </div> -->
                 </div>
 

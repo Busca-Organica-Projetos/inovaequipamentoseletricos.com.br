@@ -38,7 +38,7 @@ $blogItem = [
             <section id="content">
                 <div class="container">
                     <div class="flex">
-                        <div class="col-lg-12 col-md-12">
+                        <div class="col-lg-12 col-md-12 wd-100">
                             <p>Na vanguarda da indústria de cuidados de saúde, os transformadores para aplicações médicas desempenham um papel crucial na garantia da eficácia, segurança e confiabilidade dos equipamentos médicos. De ressonância magnética a sistemas de terapia, esses dispositivos são fundamentais para alimentar e controlar uma variedade de tecnologias avançadas que salvam vidas. Neste artigo, exploraremos em detalhes o papel dos transformadores para aplicações médicas e como eles contribuem para o avanço da medicina moderna.</p>
 
                             <h2>Capítulo 1: Importância dos Transformadores para Aplicações Médicas</h2>
@@ -116,7 +116,7 @@ $blogItem = [
             <section id="content">
                 <div class="container">
                     <div class="flex">
-                        <div class="col-lg-12 col-md-12">
+                        <div class="col-lg-12 col-md-12 wd-100">
                             <p>Quando você liga uma lâmpada, carrega seu telefone ou assiste à TV, é fácil subestimar a importância dos transformadores na nossa vida cotidiana. Por trás de cada dispositivo elétrico que usamos, há um transformador desempenhando um papel fundamental na distribuição de energia elétrica. A Inova Equipamentos Elétricos tem a honra de representar algumas das melhores empresas de transformadores e equipamentos elétricos do mercado, e neste artigo, vamos aprofundar nossa compreensão sobre o que é um transformador e como ele molda o nosso mundo elétrico.</p>
 
                             <h2>Capítulo 1: O que é um Transformador?</h2>
@@ -209,7 +209,7 @@ $blogItem = [
             <section id="content">
                 <div class="container">
                     <div class="flex">
-                        <div class="col-lg-12 col-md-12">
+                        <div class="col-lg-12 col-md-12 wd-100">
                             <p>Em um mundo em constante evolução, a demanda por eletricidade continua a crescer exponencialmente, impulsionada por avanços tecnológicos, industrialização e necessidades cotidianas. Empresas de representação comercial, como a Inova Equipamentos Elétricos, desempenham um papel vital ao fornecer soluções de energia confiáveis. Um dos componentes-chave no sistema elétrico de qualquer instalação industrial ou comercial é a cabine primária, que desempenha um papel crucial na distribuição eficiente de energia.</p>
                             <p>Neste artigo, exploraremos em detalhes o que é uma cabine primária, sua importância e como a Inova Equipamentos Elétricos desempenha um papel fundamental na representação das melhores empresas de transformadores e equipamentos elétricos.</p>
 
@@ -303,7 +303,7 @@ $blogItem = [
             <section id="content">
                 <div class="container">
                     <div class="flex">
-                        <div class="col-lg-12 col-md-12">
+                        <div class="col-lg-12 col-md-12 wd-100">
                             <p>Na indústria moderna, onde a demanda por energia elétrica é constante e as operações não podem parar, a necessidade de transformadores confiáveis é crucial. Transformadores desempenham um papel fundamental na distribuição de energia elétrica, convertendo-a de uma tensão para outra, garantindo que a eletricidade chegue aos seus destinos finais de forma segura e eficiente. No entanto, para muitas empresas, investir em transformadores pode representar um grande desafio financeiro e logístico. É aqui que a locação de transformadores a seco surge como uma solução inteligente e econômica.</p>
 
                             <h2>Capítulo 1: O Que São Transformadores a Seco?</h2>
@@ -371,7 +371,7 @@ $blogItem = [
             <section id="content">
                 <div class="container">
                     <div class="flex">
-                        <div class="col-lg-12 col-md-12">
+                        <div class="col-lg-12 col-md-12 wd-100">
                             <p>Na indústria moderna, onde a demanda de energia elétrica pode variar significativamente ao longo do tempo, a necessidade de soluções flexíveis e eficientes para a gestão da energia é fundamental. É aqui que a locação de transformadores a óleo emerge como uma opção estratégica para empresas que buscam atender às suas necessidades energéticas de forma ágil e eficaz. Neste artigo, exploraremos em detalhes o conceito de locação de transformadores a óleo, suas vantagens, aplicações e como a Inova Equipamentos Elétricos, como representante das melhores empresas do setor, pode ser a parceira ideal nesse processo.</p>
 
                             <h2>Capítulo 1: O Que São Transformadores a Óleo?</h2>
@@ -476,7 +476,7 @@ $blogItem = [
             <section id="content">
                 <div class="container">
                     <div class="flex">
-                        <div class="col-lg-12 col-md-12">
+                        <div class="col-lg-12 col-md-12 wd-100">
                             <p>Na indústria elétrica, a manutenção desempenha um papel crucial na garantia da eficiência operacional e na maximização da vida útil dos equipamentos. Duas abordagens principais são amplamente adotadas: manutenção preventiva e manutenção corretiva. Ambas têm seus méritos e são fundamentais para garantir a confiabilidade dos sistemas elétricos. Neste artigo, exploraremos as diferenças entre essas abordagens e discutiremos como a Inova Equipamentos Elétricos, pode ajudar seus clientes a implementar estratégias eficazes de manutenção.</p>
 
                             <h2>Capítulo 1: Manutenção Preventiva: Antecipando Problemas para Evitar Paralisações</h2>
@@ -602,7 +602,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A preocupação com a sustentabilidade ambiental tornou-se uma prioridade para empresas em todo o mundo. À medida que a consciência sobre os impactos negativos das atividades industriais no meio ambiente aumenta, as organizações estão cada vez mais buscando maneiras de reduzir seu footprint ecológico. Uma área-chave em que as empresas podem fazer a diferença é na gestão adequada de seus equipamentos elétricos, onde a manutenção preventiva e corretiva desempenha um papel crucial.
@@ -772,7 +772,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores são componentes fundamentais em uma vasta gama de aplicações industriais, desempenhando um papel essencial na distribuição eficiente e segura de energia elétrica. Desde o seu desenvolvimento inicial até os modelos mais avançados de hoje, esses dispositivos têm impulsionado a inovação e sustentado o funcionamento de inúmeras indústrias ao redor do mundo.
@@ -936,7 +936,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores de força desempenham um papel essencial nos sistemas elétricos modernos, sendo responsáveis pela transmissão eficiente de energia elétrica em grandes distâncias. Esses equipamentos são fundamentais para garantir estabilidade, segurança e eficiência no fornecimento de energia para indústrias, concessionárias e grandes centros urbanos.
@@ -1111,7 +1111,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A constante evolução tecnológica na indústria demanda soluções elétricas cada vez mais sofisticadas e eficientes. Nesse contexto, os transformadores emergem como componentes essenciais para garantir a distribuição eficaz de energia elétrica em diversas indústrias.
@@ -1295,7 +1295,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores utilizados em ambientes hostis desempenham um papel fundamental em operações industriais críticas, garantindo fornecimento contínuo e seguro de energia elétrica mesmo sob condições extremas.
@@ -1486,7 +1486,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Explore conosco a cativante saga da energia elétrica no Brasil, um elemento tão fascinante quanto essencial para o desenvolvimento econômico e social do país. Esta narrativa revela como a introdução dessa forma de energia revolucionou radicalmente nossas vidas, alterando profundamente a maneira como vivemos, trabalhamos e nos comunicamos.
@@ -1679,7 +1679,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Em um cenário industrial cada vez mais competitivo e tecnológico, as normas e certificações desempenham papel essencial para garantir segurança, qualidade e confiabilidade em equipamentos elétricos e processos industriais.
@@ -1876,7 +1876,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A crescente demanda por energia elétrica, aliada à necessidade de eficiência e sustentabilidade, tem impulsionado inovações tecnológicas em transformadores elétricos.
@@ -2077,7 +2077,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A indústria de equipamentos elétricos tem testemunhado avanços significativos nas últimas décadas, impulsionados pela busca incessante por eficiência energética e práticas sustentáveis.
@@ -2312,7 +2312,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores desempenham um papel fundamental na transmissão e distribuição de energia elétrica, sendo responsáveis por elevar ou reduzir níveis de tensão conforme as necessidades dos sistemas elétricos.
@@ -2552,7 +2552,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             O KVA de um transformador é uma medida extremamente importante para determinar a capacidade de potência do equipamento dentro de um sistema elétrico.
@@ -2782,7 +2782,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A crescente demanda por energia limpa e sustentável tem impulsionado o desenvolvimento e a implementação de tecnologias inovadoras no setor de energia.
@@ -3022,7 +3022,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A escolha do transformador ideal é uma etapa fundamental para garantir eficiência, segurança e desempenho adequado em sistemas elétricos.
@@ -3265,7 +3265,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores são equipamentos fundamentais para os sistemas de transmissão e distribuição de energia elétrica.
@@ -3501,7 +3501,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A energia nuclear é uma das fontes de geração de energia mais eficientes do mundo, desempenhando papel importante na matriz energética de diversos países.
@@ -3731,7 +3731,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores a seco são amplamente utilizados em sistemas elétricos devido à sua segurança, eficiência e facilidade de manutenção.
@@ -3969,7 +3969,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores desempenham papel fundamental na distribuição eficiente de energia elétrica, sendo essenciais para o funcionamento seguro e confiável de diversos setores.
@@ -4217,7 +4217,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Nos últimos anos, o mundo tem testemunhado uma rápida evolução nas tecnologias que moldam o setor elétrico.
@@ -4489,7 +4489,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores inteligentes representam uma das maiores evoluções tecnológicas do setor elétrico nos últimos anos.
@@ -4751,7 +4751,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             O crescimento da mobilidade elétrica vem transformando o setor automotivo e ampliando a demanda por infraestrutura energética eficiente e confiável.
@@ -4997,7 +4997,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores desempenham um papel fundamental na indústria elétrica, permitindo a transmissão eficiente de energia elétrica e a adaptação de tensões para diferentes aplicações.
@@ -5263,7 +5263,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             O conceito ESG tem ganhado destaque globalmente como um dos principais pilares para empresas que buscam crescimento sustentável e responsabilidade corporativa.
@@ -5505,7 +5505,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A energia de biomassa é uma das principais fontes de energia renovável utilizadas no mundo moderno.
@@ -5747,7 +5747,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A energia oceânica é uma das fontes renováveis mais promissoras para o futuro da geração de energia sustentável.
@@ -6012,7 +6012,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A busca por fontes de energia limpa e sustentável tem se tornado cada vez mais importante em um mundo preocupado com as mudanças climáticas e a redução das emissões de carbono. Entre as diversas alternativas disponíveis, a energia geotérmica se destaca como uma fonte renovável e altamente eficiente.
@@ -6245,7 +6245,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A busca por fontes de energia limpa e sustentável tem se tornado cada vez mais importante em um mundo preocupado com as mudanças climáticas e a redução das emissões de carbono. Entre as diversas alternativas disponíveis, a energia geotérmica se destaca como uma fonte renovável e altamente eficiente.
@@ -6480,7 +6480,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores desempenham um papel fundamental na transmissão e distribuição de energia elétrica, permitindo ajustar os níveis de tensão conforme a necessidade das aplicações elétricas.
@@ -6722,7 +6722,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores são equipamentos fundamentais para transmissão e distribuição de energia elétrica, permitindo adequar os níveis de tensão de acordo com cada aplicação.
@@ -6963,7 +6963,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A energia hidrelétrica é uma das principais fontes de geração de energia elétrica no mundo e desempenha papel fundamental no abastecimento energético de diversos países.
@@ -7208,7 +7208,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A energia eólica é uma das fontes renováveis que mais crescem no mundo devido à sua capacidade de gerar eletricidade de forma limpa e sustentável.
@@ -7453,7 +7453,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A energia renovável tem ganhado cada vez mais destaque no cenário mundial devido à necessidade de reduzir impactos ambientais e buscar alternativas sustentáveis para geração de eletricidade.
@@ -7698,7 +7698,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             O transformador de potência é um dos equipamentos mais importantes do sistema elétrico, sendo responsável pela transmissão eficiente de grandes quantidades de energia elétrica.
@@ -7943,7 +7943,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores de distribuição desempenham um papel essencial no fornecimento de energia elétrica para residências, indústrias, comércios e diversos setores da sociedade.
@@ -8150,7 +8150,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores de distribuição desempenham um papel essencial no fornecimento de energia elétrica para residências, indústrias, comércios e diversos setores da sociedade.
@@ -8357,7 +8357,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             As subestações de energia desempenham um papel fundamental no sistema de distribuição de energia elétrica. Elas atuam como centros de transformação e distribuição, permitindo que a eletricidade gerada em usinas de energia seja transportada com segurança e eficiência para residências, empresas e indústrias.
@@ -8581,7 +8581,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A transmissão de energia desempenha um papel fundamental no fornecimento de eletricidade para residências, empresas e indústrias.
@@ -8826,7 +8826,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A geração de energia é um dos pilares fundamentais para o funcionamento da sociedade moderna. Ela é responsável por produzir a eletricidade utilizada em residências, indústrias, comércios, hospitais e diversos outros setores essenciais.
@@ -9071,7 +9071,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A distribuição de energia é uma etapa essencial do sistema elétrico, responsável por levar a eletricidade das subestações até os consumidores finais.
@@ -9320,7 +9320,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A energia solar tem se consolidado como uma das principais fontes de energia renovável do mundo. Sustentável, limpa e abundante, ela desempenha um papel fundamental na transição energética e na redução dos impactos ambientais causados pelas fontes tradicionais de geração elétrica.
@@ -9567,7 +9567,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Na indústria elétrica, o transformador de alta tensão é um verdadeiro gigante que desempenha um papel vital na transmissão confiável e eficiente de energia elétrica em todo o mundo.
@@ -9806,7 +9806,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores de média tensão desempenham um papel essencial no sistema elétrico moderno, sendo responsáveis pela distribuição eficiente e segura de energia elétrica para diversos setores industriais, comerciais e urbanos.
@@ -10055,7 +10055,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             O transformador de baixa tensão é um equipamento essencial para a distribuição segura e eficiente de energia elétrica em aplicações residenciais, comerciais e industriais.
@@ -10303,7 +10303,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A manutenção corretiva de transformadores é um procedimento essencial para garantir o restabelecimento adequado do funcionamento de equipamentos elétricos após a ocorrência de falhas ou defeitos.
@@ -10543,7 +10543,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A manutenção preventiva de transformadores é uma prática essencial para garantir o funcionamento seguro, eficiente e contínuo dos sistemas elétricos.
@@ -10787,7 +10787,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A manutenção de transformadores é uma atividade fundamental para garantir o funcionamento seguro, eficiente e contínuo dos sistemas elétricos.
@@ -11057,7 +11057,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Seja para um projeto de construção, evento temporário ou uma demanda sazonal, a locação de transformadores e equipamentos elétricos oferece uma solução versátil e conveniente para suprir necessidades de energia.
@@ -11301,7 +11301,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             A energia solar vem ganhando cada vez mais destaque como uma das principais fontes de energia renovável no mundo.
@@ -11563,7 +11563,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores monofásicos são equipamentos elétricos utilizados para alterar os níveis de tensão em sistemas elétricos monofásicos.
@@ -11829,7 +11829,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores bifásicos são equipamentos elétricos utilizados em sistemas que operam com duas fases elétricas.
@@ -12095,7 +12095,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Na complexa infraestrutura elétrica que alimenta nossas casas, indústrias e empresas, os transformadores trifásicos são componentes essenciais, muitas vezes operando silenciosamente nos bastidores para garantir a distribuição eficiente e segura de energia elétrica.
@@ -12400,7 +12400,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             No setor elétrico, os transformadores desempenham funções essenciais na adaptação e segurança dos sistemas de energia elétrica.
@@ -12670,7 +12670,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores são equipamentos fundamentais para os sistemas elétricos, responsáveis pela adequação dos níveis de tensão para transmissão, distribuição e utilização da energia elétrica.
@@ -12939,7 +12939,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores são componentes essenciais em sistemas de distribuição de energia elétrica, desempenhando um papel crucial na transferência de energia de uma fonte para diferentes cargas.
@@ -13240,7 +13240,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Na busca contínua por eficiência energética e economia de recursos, o autotransformador têm se destacado como uma peça fundamental no campo dos equipamentos elétricos.
@@ -13561,7 +13561,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores desempenham um papel fundamental na distribuição e transmissão de energia elétrica em todo o mundo.
@@ -13834,7 +13834,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores pedestal desempenham um papel essencial nos sistemas modernos de distribuição de energia elétrica.
@@ -14103,7 +14103,7 @@ $blogItem = [
         <section id="content">
             <div class="container">
                 <div class="flex">
-                    <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-12 col-md-12 wd-100">
 
                         <p>
                             Os transformadores desempenham um papel crucial na distribuição de energia elétrica, e um dos tipos mais comuns é o transformador a óleo.

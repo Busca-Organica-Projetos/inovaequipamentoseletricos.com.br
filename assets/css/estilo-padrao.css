@@ -254,7 +254,7 @@ header .header-container-main {
 }
 
 header .logo {
-  width: 200px;
+  width: 160px;
   margin: 15px 0;
 }
 
@@ -271,7 +271,7 @@ header .logo a {
 
 .menu-list {
   display: flex;
-  padding: 0;
+  padding: 3px;
   margin: 0;
 }
 
@@ -924,7 +924,7 @@ ul.marked {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 850px) {
   header .top-header .contatos-top-header {
     display: none;
   }
