@@ -50,9 +50,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -126,7 +126,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -164,7 +164,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -222,9 +222,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -296,7 +296,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -334,7 +334,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -393,9 +393,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -467,7 +467,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -505,7 +505,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -564,9 +564,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -638,7 +638,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -676,7 +676,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -735,9 +735,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -809,7 +809,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -847,7 +847,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -906,9 +906,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -980,7 +980,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -1018,7 +1018,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -1077,9 +1077,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -1151,7 +1151,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -1189,7 +1189,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -1248,9 +1248,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -1322,7 +1322,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -1360,7 +1360,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -1419,9 +1419,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -1493,7 +1493,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -1531,7 +1531,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -1590,9 +1590,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -1664,7 +1664,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -1702,7 +1702,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -1748,9 +1748,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -1822,7 +1822,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -1860,7 +1860,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -1906,9 +1906,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -1980,7 +1980,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -2018,7 +2018,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -2064,9 +2064,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -2138,7 +2138,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -2176,7 +2176,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -2222,9 +2222,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -2296,7 +2296,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -2334,7 +2334,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -2380,9 +2380,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -2454,7 +2454,7 @@ $produtos = [
                         <li>Rodas: Sim;</li>
                         <li>Suporte de poste: Opcional;</li>
                         <li>Suporte de para raio: Opcional;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Regime de serviço: Contínuo 100%;</li>
@@ -2492,7 +2492,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -2538,9 +2538,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -2648,7 +2648,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -2694,9 +2694,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -2804,7 +2804,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -2851,9 +2851,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -2961,7 +2961,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -3007,9 +3007,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -3117,7 +3117,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -3163,9 +3163,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -3273,7 +3273,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -3319,9 +3319,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -3429,7 +3429,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -3475,9 +3475,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -3585,7 +3585,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -3630,9 +3630,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -3744,7 +3744,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -3790,9 +3790,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -3900,7 +3900,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -3946,9 +3946,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -4059,7 +4059,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -4104,9 +4104,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -4214,7 +4214,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -4259,9 +4259,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -4370,7 +4370,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -4415,9 +4415,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -4527,7 +4527,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -4572,9 +4572,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -4684,7 +4684,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -4729,9 +4729,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -4841,7 +4841,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -4887,9 +4887,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -5016,7 +5016,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -5062,9 +5062,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -5133,7 +5133,7 @@ $produtos = [
                         <li>Instalação: Ao Tempo / Pedestal;</li>
                         <li>Núcleo: Chapa de Silício;</li>
                         <li>Fator: K1;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Rodas: Sim;</li>
@@ -5168,7 +5168,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -5213,9 +5213,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -5284,7 +5284,7 @@ $produtos = [
                         <li>Instalação: Ao Tempo / Pedestal;</li>
                         <li>Núcleo: Chapa de Silício;</li>
                         <li>Fator: K1;</li>
-                        <li>Comutador de Tap\\\'s: Rotativo;</li>
+                        <li>Comutador de Tap\'s: Rotativo;</li>
                         <li>Válvula de alívio: Sim;</li>
                         <li>Grau de Proteção: IP54;</li>
                         <li>Rodas: Sim;</li>
@@ -5319,7 +5319,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -5365,9 +5365,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -5476,7 +5476,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -5521,9 +5521,9 @@ $produtos = [
                             <div class="col-8 col-md-9">
                                 <select class="form-select opcao-select">
                                     <option value="" disabled selected>Escolha uma opção</option>
-                                    <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                    <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                    <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                    <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                    <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                    <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                                 </select>
                             </div>
                         </div>
@@ -5592,7 +5592,7 @@ $produtos = [
                             <li>Instalação: Ao Tempo / Pedestal;</li>
                             <li>Núcleo: Chapa de Silício;</li>
                             <li>Fator: K1;</li>
-                            <li>Comutador de Tap\\\'s: Rotativo;</li>
+                            <li>Comutador de Tap\'s: Rotativo;</li>
                             <li>Válvula de alívio: Sim;</li>
                             <li>Grau de Proteção: IP54;</li>
                             <li>Rodas: Sim;</li>
@@ -5627,7 +5627,7 @@ $produtos = [
                         <h3>Informação adicional</h3>
                         <table class="table table-bordered info-table">
                             <tbody>
-                                <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                                <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                                 <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                             </tbody>
                         </table>
@@ -5672,9 +5672,9 @@ $produtos = [
                             <div class="col-8 col-md-9">
                                 <select class="form-select opcao-select">
                                     <option value="" disabled selected>Escolha uma opção</option>
-                                    <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                    <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                    <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                    <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                    <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                    <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                                 </select>
                             </div>
                         </div>
@@ -5792,7 +5792,7 @@ $produtos = [
                         <h3>Informação adicional</h3>
                         <table class="table table-bordered info-table">
                             <tbody>
-                                <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                                <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                                 <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                             </tbody>
                         </table>
@@ -5837,9 +5837,9 @@ $produtos = [
                             <div class="col-8 col-md-9">
                                 <select class="form-select opcao-select">
                                     <option value="" disabled selected>Escolha uma opção</option>
-                                    <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                    <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                    <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                    <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                    <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                    <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                                 </select>
                             </div>
                         </div>
@@ -5957,7 +5957,7 @@ $produtos = [
                         <h3>Informação adicional</h3>
                         <table class="table table-bordered info-table">
                             <tbody>
-                                <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                                <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                                 <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                             </tbody>
                         </table>
@@ -6002,9 +6002,9 @@ $produtos = [
                             <div class="col-8 col-md-9">
                                 <select class="form-select opcao-select">
                                     <option value="" disabled selected>Escolha uma opção</option>
-                                    <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                    <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                    <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                    <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                    <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                    <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                                 </select>
                             </div>
                         </div>
@@ -6122,7 +6122,7 @@ $produtos = [
                         <h3>Informação adicional</h3>
                         <table class="table table-bordered info-table">
                             <tbody>
-                                <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                                <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                                 <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                             </tbody>
                         </table>
@@ -6167,9 +6167,9 @@ $produtos = [
                             <div class="col-8 col-md-9">
                                 <select class="form-select opcao-select">
                                     <option value="" disabled selected>Escolha uma opção</option>
-                                    <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                    <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                    <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                    <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                    <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                    <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                                 </select>
                             </div>
                         </div>
@@ -6287,7 +6287,7 @@ $produtos = [
                         <h3>Informação adicional</h3>
                         <table class="table table-bordered info-table">
                             <tbody>
-                                <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                                <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                                 <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                             </tbody>
                         </table>
@@ -6332,9 +6332,9 @@ $produtos = [
                             <div class="col-8 col-md-9">
                                 <select class="form-select opcao-select">
                                     <option value="" disabled selected>Escolha uma opção</option>
-                                    <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                    <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                    <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                    <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                    <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                    <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                                 </select>
                             </div>
                         </div>
@@ -6452,7 +6452,7 @@ $produtos = [
                         <h3>Informação adicional</h3>
                         <table class="table table-bordered info-table">
                             <tbody>
-                                <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                                <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                                 <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                             </tbody>
                         </table>
@@ -6497,9 +6497,9 @@ $produtos = [
                             <div class="col-8 col-md-9">
                                 <select class="form-select opcao-select">
                                     <option value="" disabled selected>Escolha uma opção</option>
-                                    <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                    <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                    <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                    <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                    <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                    <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                                 </select>
                             </div>
                         </div>
@@ -6617,7 +6617,7 @@ $produtos = [
                         <h3>Informação adicional</h3>
                         <table class="table table-bordered info-table">
                             <tbody>
-                                <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                                <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                                 <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                             </tbody>
                         </table>
@@ -6662,9 +6662,9 @@ $produtos = [
                             <div class="col-8 col-md-9">
                                 <select class="form-select opcao-select">
                                     <option value="" disabled selected>Escolha uma opção</option>
-                                    <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                    <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                    <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                    <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                    <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                    <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                                 </select>
                             </div>
                         </div>
@@ -6782,7 +6782,7 @@ $produtos = [
                         <h3>Informação adicional</h3>
                         <table class="table table-bordered info-table">
                             <tbody>
-                                <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                                <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                                 <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                             </tbody>
                         </table>
@@ -6828,9 +6828,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -6956,7 +6956,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -7001,9 +7001,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -7107,7 +7107,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -10515,9 +10515,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -10643,7 +10643,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -10689,9 +10689,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -10817,7 +10817,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -10863,9 +10863,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -10991,7 +10991,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -11037,9 +11037,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -11165,7 +11165,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
@@ -11211,9 +11211,9 @@ $produtos = [
                         <div class="col-8 col-md-9">
                             <select class="form-select opcao-select">
                                 <option value="" disabled selected>Escolha uma opção</option>
-                                <option value="13.800V - 7 Tap\\\'s">13.800V - 7 Tap\\\'s</option>
-                                <option value="24.200V - 7 Tap\\\'s">24.200V - 7 Tap\\\'s</option>
-                                <option value="34.500V - 7 Tap\\\'s">34.500V - 7 Tap\\\'s</option>
+                                <option value="13.800V - 7 Tap\'s">13.800V - 7 Tap\'s</option>
+                                <option value="24.200V - 7 Tap\'s">24.200V - 7 Tap\'s</option>
+                                <option value="34.500V - 7 Tap\'s">34.500V - 7 Tap\'s</option>
                             </select>
                         </div>
                     </div>
@@ -11339,7 +11339,7 @@ $produtos = [
                     <h3>Informação adicional</h3>
                     <table class="table table-bordered info-table">
                         <tbody>
-                            <tr><th>Entrada</th><td>13.800V – 7 Tap\\\'s, 24.200V – 7 Tap\\\'s, 34.500V – 7 Tap\\\'s</td></tr>
+                            <tr><th>Entrada</th><td>13.800V – 7 Tap\'s, 24.200V – 7 Tap\'s, 34.500V – 7 Tap\'s</td></tr>
                             <tr><th>Enrolamento</th><td>Alumínio</td></tr>
                         </tbody>
                     </table>
