@@ -84,7 +84,7 @@ $borg->cssCompress(array(
                             <div class="card">
                                 <h2>TRANSFORMADOR A SECO:</h2>
                                 <img src="<?php $url ?>imagens/main/home/transformador_a_seco.webp" alt="" loading="lazy">
-                                <p>Os transformadores a seco são soluções modernas e ambientalmente amigável para atender às necessidades de distribuição de energia elétrica. Diferentemente dos transformadores tradicionais a óleo, esses transformadores não utilizam líquidos isolantes, o que os torna uma opção mais segura e sustentável.</p>
+                                <p>Os transformadores a seco são soluções modernas e ambientalmente amigáveis para atender às necessidades de distribuição de energia elétrica. Diferentemente dos transformadores tradicionais a óleo, esses transformadores não utilizam líquidos isolantes, o que os torna uma opção mais segura e sustentável.</p>
                                 <a href="<?= $url ?>portfolio-item/transformadores-a-seco/">SAIBA MAIS</a>
                             </div>
                         </div>
@@ -182,8 +182,8 @@ $borg->cssCompress(array(
                     </div>
                     <div class="box-card">
                         <div class="card">
-                            <h2>AUTOTRANSFORAMADOR:</h2>
-                            <img class="img-responsive" src="<?php $url ?>imagens/main/home/transformador_isolador_5kva.webp" alt="tranformador isolador 5kva" loading="lazy">
+                            <h2>AUTOTRANSFORMADOR:</h2>
+                            <img class="img-responsive" src="<?php $url ?>imagens/main/home/transformador_isolador_5kva.webp" alt="transformador isolador 5kva" loading="lazy">
                             <p>Os autotransformadores são uma solução engenhosa para efetuar a conversão de tensão elétrica com eficiência e economia. Sua característica única de compartilhar enrolamentos entre a entrada e a saída resulta em um design compacto e eficaz, reduzindo perdas e custos.</p>
                             <a href="<?= $url ?>portfolio-item/autotransformadores/">SAIBA MAIS</a>
                         </div>
@@ -230,7 +230,7 @@ $borg->cssCompress(array(
                             </p>
                             <p><span style="color: var(--main);">Certificações e Normas:</span> Os parceiros fabricantes são cuidadosamente selecionados com base em suas certificações e conformidade com normas de qualidade e segurança rigorosas. Isso assegura que os produtos atendam a padrões internacionais reconhecidos.
                             </p>
-                            <p><span style="color: var(--main);">Diversidade de Produtos:</span> A Inova Equipamentos Elétricos trabalha com uma rede de parceiros fabricantes que oferecem uma ampla gama de equipamentos elétricos. Isso inclui transsformadores de potência, transformadores de distribuição, transformadores especiais e outros tipos de equipamentos elétricos, adaptados às diferentes necessidades de clientes nos setores industrial, comercial e de infraestrutura.
+                            <p><span style="color: var(--main);">Diversidade de Produtos:</span> A Inova Equipamentos Elétricos trabalha com uma rede de parceiros fabricantes que oferecem uma ampla gama de equipamentos elétricos. Isso inclui transformadores de potência, transformadores de distribuição, transformadores especiais e outros tipos de equipamentos elétricos, adaptados às diferentes necessidades de clientes nos setores industrial, comercial e de infraestrutura.
                             </p>
                         </div>
                     </div>

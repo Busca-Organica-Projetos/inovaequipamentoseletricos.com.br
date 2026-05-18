@@ -41,17 +41,17 @@
                             <h3>Informações de Contato</h3>
                             <p>Preencha o formulário e nossa equipe retornará em até 24 horas.</p>
                             <ul>
-                                <li><i class="fas fa-envelope"></i> <a data-click-track="E-mail - Págnia Contato" href="mailto:<?php echo $emailContato; ?>" title="Entre em contato por e-mail"><?php echo $emailContato; ?></a></li>
-                                <li><i class="fas fa-phone-alt"></i> <a data-click-track="Telefone - Págnia Contato" href="tel:<?php echo $unidades [1]["link_tel"]; ?>" title="Clique e Ligue"><?php echo $unidades[1]['tel']; ?></a></li>
-                                <li><i class="fa-brands fa-whatsapp"></i> <a data-click-track="WhatsApp - Págnia Contato" href="<?php echo $unidades [1]["link_wpp"]; ?>" target="_blank" title="Fale conosco por WhatsApp"><?php echo $unidades[1]['wpp']; ?></a></li>
+                                <li><i class="fas fa-envelope"></i> <a data-click-track="E-mail - Página Contato" href="mailto:<?php echo $emailContato; ?>" title="Entre em contato por e-mail"><?php echo $emailContato; ?></a></li>
+                                <li><i class="fas fa-phone-alt"></i> <a data-click-track="Telefone - Página Contato" href="tel:<?php echo $unidades [1]["link_tel"]; ?>" title="Clique e Ligue"><?php echo $unidades[1]['tel']; ?></a></li>
+                                <li><i class="fa-brands fa-whatsapp"></i> <a data-click-track="WhatsApp - Página Contato" href="<?php echo $unidades [1]["link_wpp"]; ?>" target="_blank" title="Fale conosco por WhatsApp"><?php echo $unidades[1]['wpp']; ?></a></li>
                                 <li><i class="fas fa-map-marker-alt"></i> <a href="<?php echo $unidades [1]["link_maps"]; ?>" title="Acesse no Maps" target="_blank"><?php echo $unidades[1]['rua']?></a></li>
                             </ul>
                             <h4>Redes Sociais</h4>
                             <ul class="social-media">
-                                <li><a data-click-track="Ícone Facebook - Redes Sociais - Págnia Contato" href="https://www.facebook.com/<?php echo $facebook; ?>" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
-                                <li><a data-click-track="Ícone Instagram - Redes Sociais - Págnia Contato" href="https://www.instagram.com/<?php echo $instagram; ?>" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                <li><a data-click-track="Ícone Linkedin - Redes Sociais - Págnia Contato" href="https://www.linkedin.com/<?php echo $linkedin?>" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                <li><a data-click-track="Ícone WhatsApp - Redes Sociais - Págnia Contato" href="<?php echo $unidades [1]["link_wpp"]; ?>" target="_blank"><i class="fa-brands fa-whatsapp"></i></a></li>
+                                <li><a data-click-track="Ícone Facebook - Redes Sociais - Página Contato" href="https://www.facebook.com/<?php echo $facebook; ?>" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                                <li><a data-click-track="Ícone Instagram - Redes Sociais - Página Contato" href="https://www.instagram.com/<?php echo $instagram; ?>" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+                                <li><a data-click-track="Ícone Linkedin - Redes Sociais - Página Contato" href="https://www.linkedin.com/<?php echo $linkedin?>" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                <li><a data-click-track="Ícone WhatsApp - Redes Sociais - Página Contato" href="<?php echo $unidades [1]["link_wpp"]; ?>" target="_blank"><i class="fa-brands fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">

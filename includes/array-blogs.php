@@ -470,7 +470,7 @@ $blogs = [
         "imagem"     => "5_o_que_e_um_autotransformador_1_1_1x.webp",
         "data"       => "15 de setembro de 2023",
         "categorias" => ["AUTOTRANSFORMADOR", "TRANSFORMADORES"],
-        "excerpt"    => "Na busca contínua por eficiência energética e economia de recursos, o autotransformador têm se destacado como uma peça fundamental no campo dos equipamentos elétricos. Neste artigo, exploraremos o que é um autotransformador, como…",
+        "excerpt"    => "Na busca contínua por eficiência energética e economia de recursos, o autotransformador tem se destacado como uma peça fundamental no campo dos equipamentos elétricos. Neste artigo, exploraremos o que é um autotransformador, como…",
     ],
 
     "o-que-e-um-transformador-a-seco" => [

@@ -551,7 +551,7 @@ header .info {
 /* Rodapé */
 
 footer {
-  padding: 30px 15px;
+  padding: 30px 10px;
   background-color: var(--grey);
   color: #fff;
 }
@@ -999,6 +999,9 @@ ul.marked {
   #filtros .filtros h2{
     font-size: 14px !important;
 }
+ footer .flex {
+  flex-direction: column;
+ }
 }
 
 #filtros .box-filtros {
